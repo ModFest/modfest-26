@@ -254,7 +254,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "modfest:emoji/whyfest.png",
+			"file": "modfest:emoji/modfest_waaaaa.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -313,6 +313,15 @@
 			"ascent": 8,
 			"chars": [
 				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modfest:emoji/iapprove.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
 			]
 		}
 	]
