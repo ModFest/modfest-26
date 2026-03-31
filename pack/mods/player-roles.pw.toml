@@ -1,13 +1,13 @@
 name = "Player Roles"
-filename = "player-roles-1.8.1.jar"
+filename = "player-roles-1.9.0-pre.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Rt1mrUHm/versions/2PHCrWcd/player-roles-1.8.1.jar"
+url = "https://cdn.modrinth.com/data/Rt1mrUHm/versions/iFL75Q1d/player-roles-1.9.0-pre.1.jar"
 hash-format = "sha512"
-hash = "caa640a5295db498408d782a92c9a3dc6d7c808284e2f61a3fc6ce6562278b5186f545aa792ece59b2e48e9d2bdaaa4efd6a12413cf9dd1f3ba36896469289d5"
+hash = "277f892c24372182e38fbeb409c605ac402d2ba7978b513544ab25be26026d7f3a0f4620e1c90076e3fface47c445d75a9f309c504fdccfbf3bdd4774fc1db03"
 
 [update]
 [update.modrinth]
 mod-id = "Rt1mrUHm"
-version = "2PHCrWcd"
+version = "iFL75Q1d"

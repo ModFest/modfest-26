@@ -96,7 +96,10 @@ file = "mods/badpackets.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cantilever.pw.toml"
+file = "mods/cantilever-2.0-dev+26.1.jar"
+
+[[files]]
+file = "mods/crunchy-crunchy-advancements.pw.toml"
 metafile = true
 
 [[files]]
@@ -140,12 +143,7 @@ file = "mods/styledplayerlist.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldedit-cui.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldedit-server.pw.toml"
-metafile = true
+file = "mods/worldedit-fabric-mc26.1-7.4.2-SNAPSHOT-dist.jar"
 
 [[files]]
 file = "mods/wthit.pw.toml"
@@ -440,6 +438,9 @@ file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/g
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/genderqueer_heart.png"
 
 [[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/iapprove.png"
+
+[[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/intersex_heart.png"
 
 [[files]]
@@ -450,6 +451,9 @@ file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/l
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/modfest.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/modfest_waaaaa.png"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/nb_heart.png"
@@ -483,9 +487,6 @@ file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/u
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/vincian_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/whyfest.png"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/winnger.png"

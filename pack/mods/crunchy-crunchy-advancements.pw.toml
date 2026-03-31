@@ -1,0 +1,13 @@
+name = "Crunchy Crunchy Advancements"
+filename = "crunchy-crunchy-advancements-1.7.2+26.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/4lO2KZlF/versions/MXHJghdb/crunchy-crunchy-advancements-1.7.2%2B26.1.jar"
+hash-format = "sha512"
+hash = "d9cb910e0b95dd9c89901e4afebe428b59b7a9f6f8717e2139470784967ce6eb308f45a41eb0746be3605f1d2bb842bd0a8eb4ac74846df3b531a870eeaa8b01"
+
+[update]
+[update.modrinth]
+mod-id = "4lO2KZlF"
+version = "MXHJghdb"
