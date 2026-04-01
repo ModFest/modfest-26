@@ -1,0 +1,8 @@
+name = "fabrictailor"
+filename = "fabrictailor-2.8.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/sisby-folk/FabricTailor/releases/download/okayish/fabrictailor-2.8.2.jar"
+hash-format = "sha256"
+hash = "90485bb071772791712c5408b1cf02fe42396b07f510f5407cf57b1c732f9923"
