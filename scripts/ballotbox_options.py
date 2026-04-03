@@ -4,7 +4,7 @@ import requests
 
 
 def ballotbox_options():
-	event_id = "toybox"
+	event_id = "26"
 	options = []
 	submissions_url = f"https://platform.modfest.net/event/{event_id}/submissions"
 	print(submissions_url)

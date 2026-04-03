@@ -18,7 +18,7 @@ def naughty_list():
 						comment = lines[j].replace("\n", "").replace("# ", "")
 						submissions_comments[line] = comment
 						break
-	event_id = "toybox"
+	event_id = "26"
 	submissions = dict()
 	users = dict()
 	submissions_url = f"https://platform.modfest.net/event/{event_id}/submissions"

@@ -9,8 +9,8 @@ from scripts import common
 
 def trim_world():
 	# Event-Specific Data
-	folder_name  = "ModFest Toybox Showcase"
-	level_name = "ModFest: Toybox Showcase World"
+	folder_name  = "ModFest 26 Showcase"
+	level_name = "ModFest 26 Showcase World"
 	spawn = [54, 222, 85]
 	dim_borders = { # chunk coordinates to keep, inclusive-inclusive.
 		"": [0, 0, 31, 31], # Overworld

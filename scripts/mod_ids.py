@@ -13,7 +13,7 @@ from scripts import common
 
 def mod_ids():
 	edit_files = False
-	event_id = "toybox"
+	event_id = "26"
 	submissions_url = f"https://platform.modfest.net/event/{event_id}/submissions"
 
 	with tempfile.TemporaryDirectory() as tmpdir_name:

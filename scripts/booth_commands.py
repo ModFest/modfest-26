@@ -24,7 +24,7 @@ dir_yaw = {
 }
 
 def warps():
-	event_id = "toybox"
+	event_id = "26"
 	submissions_url = f"https://platform.modfest.net/event/{event_id}/submissions"
 	
 	for submission in json.loads(requests.get(submissions_url).text):
