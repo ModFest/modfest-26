@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".pteroignore"
+
+[[files]]
 file = "config/ballotbox.toml"
 
 [[files]]
@@ -14,6 +17,12 @@ file = "config/canary.json"
 
 [[files]]
 file = "config/crunchy_crunchy_advancements.toml"
+
+[[files]]
+file = "config/customwindowtitle-client.toml"
+
+[[files]]
+file = "config/customwindowtitle/icon.png"
 
 [[files]]
 file = "config/default-hotkeys.json"
@@ -31,7 +40,13 @@ file = "config/glowcase.toml"
 file = "config/hoofprint.toml"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+
+[[files]]
 file = "config/item-descriptions.json"
+
+[[files]]
+file = "config/item_descriptions.toml"
 
 [[files]]
 file = "config/meret.toml"
@@ -44,6 +59,9 @@ file = "config/modfest_sync/behaviour.properties"
 
 [[files]]
 file = "config/modmenu.json"
+
+[[files]]
+file = "config/music-moods.properties"
 
 [[files]]
 file = "config/polymer/common.json"
@@ -74,9 +92,6 @@ file = "config/styledplayerlist/styles/default.json"
 
 [[files]]
 file = "config/surveyor.toml"
-
-[[files]]
-file = "config/teabridge.json"
 
 [[files]]
 file = "config/waila/blacklist.json5"
@@ -111,6 +126,10 @@ metafile = true
 
 [[files]]
 file = "mods/ballotbox.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-log4j-config.pw.toml"
 metafile = true
 
 [[files]]
@@ -169,8 +188,7 @@ file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/map-utils.pw.toml"
-metafile = true
+file = "mods/map_utils-2.3.2+26.1.jar"
 
 [[files]]
 file = "mods/mcqoy.pw.toml"
@@ -281,46 +299,52 @@ file = "options.txt"
 file = "resources/common/required/mf_music/assets/minecraft/sounds.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/antiquity.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/childhood_promises.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/lang/en_us.json"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/dormant.json"
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/antiquity.json"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/prologue.json"
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/childhood_promises.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds.json"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/dormant.ogg"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/advent.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/prologue.ogg"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/childhood_promises.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/dormant.ogg"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/antiquity.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/prologue.ogg"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/childhood_promises.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/dormant.png"
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/antiquity.png"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/prologue.png"
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/childhood_promises.png"
 
 [[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/dormant.json"
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/antiquity.json"
 
 [[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/prologue.json"
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/childhood_promises.json"
 
 [[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/dormant.json"
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/antiquity.json"
 
 [[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/prologue.json"
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/childhood_promises.json"
 
 [[files]]
 file = "resources/common/required/mf_music/pack.mcmeta"
@@ -354,6 +378,42 @@ file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/b
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/banana_mini_front.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_1_backing.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_1_front.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_1_mini_backing.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_1_mini_front.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_2_backing.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_2_front.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_2_mini_backing.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_2_mini_front.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_3_backing.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_3_front.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_3_mini_backing.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_3_mini_front.png"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/coconut_backing.png"
@@ -416,10 +476,43 @@ file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/p
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/passionfruit_mini_front.png"
 
 [[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_backing.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_front.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_mini_backing.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_mini_front.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/scattered_shards/textures/gui/shards/mini_outline.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/scattered_shards/textures/gui/shards/mini_outline_slight.png"
+
+[[files]]
 file = "resources/common/required/mf_shards/data/scattered_shards/shard_type/types.json"
 
 [[files]]
 file = "resources/common/required/mf_shards/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/free_build/data/free_build/default_components/free_buildables.json"
+
+[[files]]
+file = "resources/datapack/required/free_build/data/free_build/tags/block/free_build_surfaces.json"
+
+[[files]]
+file = "resources/datapack/required/free_build/data/free_build/tags/block/free_buildables.json"
+
+[[files]]
+file = "resources/datapack/required/free_build/data/free_build/tags/item/free_buildables.json"
+
+[[files]]
+file = "resources/datapack/required/free_build/pack.mcmeta"
 
 [[files]]
 file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/categories.json"
@@ -614,7 +707,7 @@ file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/u
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/vincian_heart.png"
 
 [[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/winnger.png"
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/winner.png"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/yeefuckinghaw.png"
@@ -624,6 +717,12 @@ file = "resources/resourcepack/required/mf_emoji/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/styled_chat_emoji.json"
+
+[[files]]
+file = "resources/resourcepack/required/mod_descriptions/assets/modfest/lang/en_us.json"
+
+[[files]]
+file = "resources/resourcepack/required/mod_descriptions/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/twemoji.zip"

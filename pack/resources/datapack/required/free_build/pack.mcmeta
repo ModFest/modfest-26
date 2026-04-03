@@ -1,6 +1,7 @@
 {
-  "pack": {
-    "pack_format": 81,
-    "description": "Data required for the free-build area"
-  }
+	"pack": {
+		"min_format": 88,
+		"max_format": 88,
+		"description": "Event freebuild area data"
+	}
 }
