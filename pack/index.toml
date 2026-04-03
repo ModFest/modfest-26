@@ -299,19 +299,19 @@ file = "options.txt"
 file = "resources/common/required/mf_music/assets/minecraft/sounds.json"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/items/music/lily_of_the_valley.json"
+file = "resources/common/required/mf_music/assets/modfest/items/music/ice_cold_spades.json"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/items/music/ice_cold_spades.json"
+file = "resources/common/required/mf_music/assets/modfest/items/music/lily_of_the_valley.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/lang/en_us.json"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/lily_of_the_valley.json"
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/ice_cold_spades.json"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/ice_cold_spades.json"
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/lily_of_the_valley.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds.json"
@@ -323,28 +323,28 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/advent.og
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/ice_cold_spades.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/lily_of_the_valley.ogg"
-
-[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/ice_cold_spades.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/lily_of_the_valley.png"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/lily_of_the_valley.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/ice_cold_spades.png"
 
 [[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/lily_of_the_valley.json"
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/lily_of_the_valley.png"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/ice_cold_spades.json"
 
 [[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/lily_of_the_valley.json"
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/lily_of_the_valley.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/ice_cold_spades.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/lily_of_the_valley.json"
 
 [[files]]
 file = "resources/common/required/mf_music/pack.mcmeta"
