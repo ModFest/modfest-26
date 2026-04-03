@@ -16,6 +16,9 @@ file = "config/bobby.conf"
 file = "config/canary.json"
 
 [[files]]
+file = "config/cantilever.toml"
+
+[[files]]
 file = "config/crunchy_crunchy_advancements.toml"
 
 [[files]]
@@ -223,10 +226,6 @@ file = "mods/player-roles.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/polymer.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/qomc.pw.toml"
 metafile = true
 
@@ -321,10 +320,10 @@ file = "resources/common/required/mf_music/assets/modfest/models/item/music/lily
 file = "resources/common/required/mf_music/assets/modfest/sounds.json"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/advent.ogg"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/ice_cold_spades.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/ice_cold_spades.ogg"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/lily_of_the_valley.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/ice_cold_spades.ogg"
@@ -718,9 +717,6 @@ file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/y
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/pack.mcmeta"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/styled_chat_emoji.json"
 
 [[files]]
 file = "resources/resourcepack/required/mod_descriptions/assets/modfest/lang/en_us.json"
