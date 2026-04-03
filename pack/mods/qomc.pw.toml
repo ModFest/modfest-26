@@ -1,0 +1,13 @@
+name = "QoMC"
+filename = "qomc-1.0.0+26.1-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/uwv2nlpZ/versions/8kN29QJe/qomc-1.0.0%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "49625825d3504e97a52f6723e425f881e6afa02f95dc00819926569a266cef1645eff6ac74b79284e8223397a8e6d39b52d0a51c3c7cf071263f73a3256c496b"
+
+[update]
+[update.modrinth]
+mod-id = "uwv2nlpZ"
+version = "8kN29QJe"

@@ -227,6 +227,10 @@ file = "mods/polymer.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/qomc.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/rrv.pw.toml"
 metafile = true
 
