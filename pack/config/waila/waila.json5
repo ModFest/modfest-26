@@ -112,7 +112,7 @@
     openConfig: "key.keyboard.unknown",
     // Show Overlay
     // Default value: [key.keyboard.unknown]
-    showOverlay: "key.keyboard.unknown",
+    showOverlay: "key.keyboard.left.alt",
     // Toggle Liquid
     // Default value: [key.keyboard.unknown]
     toggleLiquid: "key.keyboard.unknown",
