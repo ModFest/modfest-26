@@ -1,15 +1,13 @@
-name = "lampblack"
+name = "lampblack pronouns"
 filename = "lampblack-1.1.0+fabric-26.1.jar"
 side = "server"
 
 [download]
-url = "https://github.com/afamiliarquiet/lampblack/releases/download/v1.1.0/lampblack-1.1.0%2Bfabric-26.1.jar"
-hash-format = "sha256"
-hash = "4b9dd11fe41a1c25052787356b13304c8e3b16bd9566961882de3b04ffcba177"
+url = "https://cdn.modrinth.com/data/nFj2Gxsu/versions/6tnkz0xB/lampblack-1.1.0%2Bfabric-26.1.jar"
+hash-format = "sha512"
+hash = "fe1ce7231d8213ab1cc1831af463c83d7b00a2263771180cfede7cdfbd0e3f8edc239334cf464ee28c73fac62a0387d8c0d05d67bf3e3e58a8fffd8207ec1563"
 
 [update]
-[update.github]
-branch = "fabric-26.1"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "afamiliarquiet/lampblack"
-tag = "v1.1.0"
+[update.modrinth]
+mod-id = "nFj2Gxsu"
+version = "6tnkz0xB"
