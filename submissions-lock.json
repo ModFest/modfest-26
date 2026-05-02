@@ -36,16 +36,35 @@
 		"files": {
 			"mods/assorted-appetizers.pw.toml": {
 				"download": {
-					"hash": "c220bfe6e8d81e61c13ce9c9861764afae91dec96a001751fc79a1dfe657735ca6e35b4249eaa5024c5cbd53d5c18eb71196a4e40b951134263bdbf6970c6269",
+					"hash": "8fa7121c3f956c728f3e75630b4d9e4e80c2549aa9d148fe60afb666d2051d39a9d3b98e2371f5ad98738ec01383843d5aa638e58b8d9b915e22cda4dbe20124",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/cC2HeVYB/versions/R8HrDKne/appetizers-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/cC2HeVYB/versions/alYaJtCq/appetizers-1.2.0.jar"
 				},
-				"filename": "appetizers-1.0.0.jar",
+				"filename": "appetizers-1.2.0.jar",
 				"name": "Assorted Appetizers",
 				"side": "both"
 			}
 		},
-		"key": "3dd91ece441d29c3f4270aa68889a575a98928862c15835f7165e1157c0579f6"
+		"key": "064db2fd22a2135577b8d26bd31d36b4619f7d64c9bfbbe6d9ad47e37a8de2f5"
+	},
+	"bakingsoda": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
+		"files": {
+			"mods/bakingsoda.pw.toml": {
+				"download": {
+					"hash": "cb9dd8d25c004fb966a200b827f5261f5581ab9d012b310ffebcc32e03ce940c1a2940ae64c36dd8010523431b1f6bb7daaa9a5a15e9ebd34a3f98674b0bd45b",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/rh6YC5O1/versions/o0J5FSJA/bakingsoda-1.1.0.jar"
+				},
+				"filename": "bakingsoda-1.1.0.jar",
+				"name": "A Mod About Baking Soda",
+				"side": "server"
+			}
+		},
+		"key": "f8c0f3bf33467395e748aba45bc04fb3895d51aa516f76f2f0b9cf7a6b03cf71"
 	},
 	"bloom-festal": {
 		"checks": {
@@ -55,16 +74,53 @@
 		"files": {
 			"mods/bloom-festal.pw.toml": {
 				"download": {
-					"hash": "4f349ef4b5027be6257f15ccb165b904d6111a31bd6816c2ba5ea9db8fcd30a29cff61bc5fdb8b4ea9eaa8ceeb2ab5cb8cdf45bd83c992ccdefbecb52349ac1f",
+					"hash": "a7b9f65ce6bb9cb89f2092c54195811d555b7bbfcd09fc26c1c73bf611eefda04ac0e4a3bf78097c6da40c6703a7aa5a10aba274d785a8f1ed0918182152e7a0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xf63Yoa7/versions/LtQ2dtNh/bloom-festal-1.0.2%2Bfabric-26.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/xf63Yoa7/versions/YA5q3yB3/bloom-festal-1.0.4%2Bfabric-26.1.1.jar"
 				},
-				"filename": "bloom-festal-1.0.2+fabric-26.1.1.jar",
+				"filename": "bloom-festal-1.0.4+fabric-26.1.1.jar",
 				"name": "Bloom Festal",
 				"side": "both"
 			}
 		},
-		"key": "f435e44ef7efacb9380d80bf3324bd8692b8767e1c5263b2c98bcd0624b3bfe6"
+		"key": "83326f4dc7ffce270e96319f67eb978aec149a39daa538ab550c6c742b7ba0e2"
+	},
+	"botanicmagic": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
+		"files": {},
+		"key": "dd5fd47737ddd1bc2434a736336df1fbdcdf77fe7892c33d12585ce4ccbf9aea"
+	},
+	"chalkboard": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
+		"files": {
+			"mods/chalkboard.pw.toml": {
+				"download": {
+					"hash": "344e9de8bf8ab30efa11fe40830333da1ca48af49e688dd687457ad2dc4d9076d54fe8dee9366a200509889e99c06e4574ed0bf60732a71891137b9d5f64d7a6",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/Azgc1ZEh/versions/P9xebxft/chalkboard-26.5.2.1.jar"
+				},
+				"filename": "chalkboard-26.5.2.1.jar",
+				"name": "Chalkboard",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "7e3c05dfde0d2c55d14ef68e4038ac1d3335ed48dfca4dbcfb29b873d698ae069ebd85f247d8a0b48437e484422549a17ff5cbbfe734d159153c3bc0e0037417",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/dZsorAUN/fabric-api-0.147.0%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.147.0+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			}
+		},
+		"key": "3ca71dff71b614ff4d9a91f0d085b74560604d8aab5e79b789aef5d3ad46bf06"
 	},
 	"combat-toggle": {
 		"checks": {
@@ -74,16 +130,16 @@
 		"files": {
 			"mods/combat-toggle.pw.toml": {
 				"download": {
-					"hash": "5494561d24324d09173989fc9da856d2bf9ad39d00c05c4aa610b006494513965fc3b84666fcacea24c8e9d30e94017358a030fba94e578c3de15c9cb123d994",
+					"hash": "a4c24fe718bdc0025a54a1cdeac1b028847c7f2d93d898f14cefbc5821f562711c0cff46de82e767d538549b7e51cb2dc9487ee05ffed701af246b49eeeb1156",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4wdDIoBJ/versions/wWCE0n4t/ctoggle-1.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/4wdDIoBJ/versions/dpnzzCNa/ctoggle-1.2.1.jar"
 				},
-				"filename": "ctoggle-1.1.0.jar",
+				"filename": "ctoggle-1.2.1.jar",
 				"name": "Combat Toggle",
 				"side": "server"
 			}
 		},
-		"key": "7b0057a0141ac5c75b820946b222dd2cae98ebb0bc7720b694f6ff8122311ceb"
+		"key": "943001f09256825d5e4fda3ff9c809e907005116cb72f0ff25628f46337b96e2"
 	},
 	"dual-stance": {
 		"checks": {
@@ -93,16 +149,26 @@
 		"files": {
 			"mods/dual-stance.pw.toml": {
 				"download": {
-					"hash": "7233c3469beaad552c94974e16c0bf0ca18a0cc9d201ae4e616930174feafc6db29741bd572a29f1169601f8774efa41081d47662e18855d928de23521142be5",
+					"hash": "b2f30e8e3decedf91b846db51b30ec69f765513fa9a41ccff5271d336757ab4e2587e7bede33aaf98ecbfac4c11d3d527a00811aed1da9fbb0d7a86eb932bd43",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/z6Esg6rK/versions/bMeDMu22/dual-stance-0.2.0.jar"
+					"url": "https://cdn.modrinth.com/data/z6Esg6rK/versions/5VTnCxws/dual-stance-0.3.0.jar"
 				},
-				"filename": "dual-stance-0.2.0.jar",
+				"filename": "dual-stance-0.3.0.jar",
 				"name": "Dual Stance",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "7e3c05dfde0d2c55d14ef68e4038ac1d3335ed48dfca4dbcfb29b873d698ae069ebd85f247d8a0b48437e484422549a17ff5cbbfe734d159153c3bc0e0037417",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/dZsorAUN/fabric-api-0.147.0%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.147.0+26.1.2.jar",
+				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "51bada4cc843ce755f887481df3a4abf938d2c7d4e8e44f7d7363c54453f0ff6"
+		"key": "377f32b15480db4ea9ca162b27af4f58a757181ea5594a3ac0697cbe38cd0468"
 	},
 	"enamel": {
 		"checks": {
@@ -142,6 +208,54 @@
 			}
 		},
 		"key": "38a2c07f2f99a178d64b343c333ad86d1c95f433e4f659d647e4b787ded0fdc2"
+	},
+	"etaerio-eaterie": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
+		"files": {
+			"mods/etaerio-eaterie.pw.toml": {
+				"download": {
+					"hash": "c644cd047a8063413a93dfb50b185be8577861fc94f93b43401e9beeb6fe752ec0c5ef6abeec16800bb18e57877c25ffddc6b809c77e292bd9e44343b2c5297e",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/Mz1FAA72/versions/rm6lOaUu/etaerio-eaterie-1.0.0.jar"
+				},
+				"filename": "etaerio-eaterie-1.0.0.jar",
+				"name": "Etaerio Eaterie",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "7e3c05dfde0d2c55d14ef68e4038ac1d3335ed48dfca4dbcfb29b873d698ae069ebd85f247d8a0b48437e484422549a17ff5cbbfe734d159153c3bc0e0037417",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/dZsorAUN/fabric-api-0.147.0%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.147.0+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			}
+		},
+		"key": "07721094b78ca4a8b22b962e7c8f41ecb9bcceaa58f2ecb7dcd9ea1d8defc234"
+	},
+	"flowers-galore": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
+		"files": {
+			"mods/flowers-galore.pw.toml": {
+				"download": {
+					"hash": "e8c88ba239d70243d991fcd752ffb29b915e362bea57a10d903b6327d26f0daf29bb5beaff20ec2b1c763495bc0274c004708e5e69c8b9e85591941e5e359bad",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/5Tp9paFi/versions/ZzjmSrMc/flowers-galore-1.0.0.jar"
+				},
+				"filename": "flowers-galore-1.0.0.jar",
+				"name": "Flowers Galore!",
+				"side": "both"
+			}
+		},
+		"key": "bd9fa2416b2c6a8e8f96294551f35a90ff3c0f25440c19b4dc4562d78a6a8fb6"
 	},
 	"grappling-hooke": {
 		"checks": {
@@ -209,16 +323,16 @@
 		"files": {
 			"mods/hotdognalds.pw.toml": {
 				"download": {
-					"hash": "542a2b688c44a49195a56a7ae0f07d163c494c61148ee17e198f25bb6ffca291d2f7b9644442c107d2731dfdaf9c5612f9198a713f6cd16912c79ddf4877d6b4",
+					"hash": "13f077eaa694d59fb5e719881c9f1d6fe3ec1d35714af979f22b292da1fac12d875eedfd86d5bfafd33d9309edb1f9cd1c189a86834cd390f7e91a36927c01a8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/g0zHrDtk/versions/7RSMUszV/hotdognalds-0.4.1%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/g0zHrDtk/versions/kqWy2vJy/hotdognalds-0.5.0%2B26.1.2.jar"
 				},
-				"filename": "hotdognalds-0.4.1+26.1.2.jar",
+				"filename": "hotdognalds-0.5.0+26.1.2.jar",
 				"name": "Hotdognald's",
 				"side": "both"
 			}
 		},
-		"key": "d86e23f9bcbc1fecbafd9dea11e54d5bfd61d4aa049fdea5f88b614dc614ff9b"
+		"key": "194c019356a640c2b28ce87c4b0e05399fc2a43922a2d9c4fd0179f7bc0a5168"
 	},
 	"ikhemusek": {
 		"checks": {
@@ -276,16 +390,16 @@
 		"files": {
 			"mods/letters-of-effection.pw.toml": {
 				"download": {
-					"hash": "e07cbf622f537540d2a0ca31f5a223a4372016df196cdcb70c85bc219616c8942c7e45f785e3ae125ac33d00f3d94a84f34cec2845d42707ec3036fcdb2621d7",
+					"hash": "44795363ed85fa93f682597a38f6c9051f27e50bb9d9c05f14302ef9982fa602adfb9234627c8e0687267f82ca7c38350d4b30f64122c97956eee1b4b18892d4",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/3lmd1o0a/versions/T4twP2Q9/loe-1.1a-26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/3lmd1o0a/versions/8FS47CyX/loe-1.2a-26.1.2.jar"
 				},
-				"filename": "loe-1.1a-26.1.2.jar",
+				"filename": "loe-1.2a-26.1.2.jar",
 				"name": "Letters Of Effection",
 				"side": "both"
 			}
 		},
-		"key": "ad3bba695b3a503badd7a5aebbc5735dca557e8f7307c38bb4e926cba0d66684"
+		"key": "05a421de47ed0ea568019f00cfbbc7150f4eab937b18e2f526844dabd16b950a"
 	},
 	"lovely-bites": {
 		"checks": {
@@ -295,16 +409,16 @@
 		"files": {
 			"mods/lovely-bites.pw.toml": {
 				"download": {
-					"hash": "e5decc3caa762c0c99ccc4cc5dd50dd8a3dbba98b99fe161a8086cc72c658b476e7a831ea4e68dacaa86ded231fa32b2f172caf110e38cddded7428cfe681167",
+					"hash": "b2a8cf3d841ee0e3f0a7dc714b33845f7237543567677cda184c1197b9acc53eae23c0597b7517e4f5113f57745af83127e60ad2e541ca6703c7b2e34d83df08",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/D7D5bEMP/versions/1C3obGlY/lovely_bites-0.2.0-26.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/D7D5bEMP/versions/3cEnl4Hl/lovely_bites-0.3.0-26.1.1.jar"
 				},
-				"filename": "lovely_bites-0.2.0-26.1.1.jar",
+				"filename": "lovely_bites-0.3.0-26.1.1.jar",
 				"name": "Lovely Bites",
 				"side": "both"
 			}
 		},
-		"key": "24c75a48bafaa2204b1ce7c4991a35164548837319f3cc0a12965350ef2d415b"
+		"key": "3aa24d23daf6a98f940df2ee6c37e199fb9c5a0369b2592e210dff1ce8d49e55"
 	},
 	"menko": {
 		"checks": {
@@ -314,16 +428,35 @@
 		"files": {
 			"mods/menko.pw.toml": {
 				"download": {
-					"hash": "1513e799930c1933ce2af02a7ed46b079faf0d3428e1d28243469de01ca32ea5e8be41a32656544a0570931f9aeb45316664c2de433c9d4234be05d370845bdb",
+					"hash": "f537a51dc7e84f8e305fea8e6155159465c20789aca11f503928d449e78f35f39e53c9bdd593d13dcbcbb9c10a76773b54dc50e50d5be6b9ba98aa6c459a49da",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/psvOhkSX/versions/KPcnMfyU/menko-0.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/psvOhkSX/versions/kjYTdH70/menko-0.1.1.jar"
 				},
-				"filename": "menko-0.1.0.jar",
+				"filename": "menko-0.1.1.jar",
 				"name": "Menko",
 				"side": "both"
 			}
 		},
-		"key": "ca07a92a115395f45f2faf85183fcd642d70bdb1fa8ee9d733956b6dc8a9c0f2"
+		"key": "0ee73809bcc474bdbf8c2ff1354d6450bb9e556ba4bd63fb6bf3ed9194b53a28"
+	},
+	"mugann": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
+		"files": {
+			"mods/mugann.pw.toml": {
+				"download": {
+					"hash": "ef2829cc17b8a9de5bcf0341b49afd3def7224a605d210e4c4e2580ab6a67ad78f94dcd4d1d45b1e17db52e4f49e906b09b56ac2095522fcb29f8c0ba69cfe7a",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/Lnp2OJR5/mugann-1.0.2.jar"
+				},
+				"filename": "mugann-1.0.2.jar",
+				"name": "Mugann",
+				"side": "both"
+			}
+		},
+		"key": "ef9043d9d3cf1c4e27d575176fc767145604ab0f0410af2463d2a9d826c4b9f2"
 	},
 	"peace-lily": {
 		"checks": {
@@ -441,6 +574,25 @@
 		},
 		"key": "051f8921618ecdef1432b2f7e3ceb31ccf5c3309b836d7a682ca0e296b725a32"
 	},
+	"reliable-gliders": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
+		"files": {
+			"mods/reliable-gliders.pw.toml": {
+				"download": {
+					"hash": "3585211dc5553dd7682112328cc430f3c7a2268f3bab7f073ee0d17854ba2f59c746b51f8a41ec77cb338ef943704398c4a9c3a68d1821a023afa834dd995638",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/pVIWsXir/versions/kaUUhTX5/reliable_gliders-fabric-26.1.2-1.2.0.jar"
+				},
+				"filename": "reliable_gliders-fabric-26.1.2-1.2.0.jar",
+				"name": "Reliable Gliders",
+				"side": "both"
+			}
+		},
+		"key": "11c01c21f82c0b052b95eeb9886aae444be40bf669a6fa4165e3c5afc236f34b"
+	},
 	"renmi": {
 		"checks": {
 			"claimed": false,
@@ -449,16 +601,16 @@
 		"files": {
 			"mods/renmi.pw.toml": {
 				"download": {
-					"hash": "9a4aab93655df2ecc9098d3b8457387064110ba59269df4d97e975d2df5802f96c24336c41d08ea55aa669acb06ba04e05cabaab23fb8e2c725b2dfe63bf773a",
+					"hash": "c636dbfe3d3b43d825beb97fe56164c0ca6079dda62fc492be96c53dbe7271927bf71613f408e8d556b28b937728e5af4e1210c35fb73cfeead144625e0c9fa7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/rH3JKD5K/renmi-1.0.1-beta%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/5B2ekP7O/renmi-1.0.2-beta%2B26.1.2.jar"
 				},
-				"filename": "renmi-1.0.1-beta+26.1.2.jar",
+				"filename": "renmi-1.0.2-beta+26.1.2.jar",
 				"name": "Ren'mi",
 				"side": "both"
 			}
 		},
-		"key": "d2ee2856c80addf101b496f21efea70840972b5df0a8ea1dd729b1d7f3418ce1"
+		"key": "8148da9e3a022c245ed3daf3a062e189396b370843611badc4a7d32d80f22c97"
 	},
 	"slime-time": {
 		"checks": {

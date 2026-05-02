@@ -6,3 +6,7 @@
 # Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/player/LocalPlayer
 #	at knot//net.thefluffycart.loe.items.LOEItems.<clinit>(LOEItems.java:24)
 letters-of-effection
+
+
+#crash right after loading, ticking trinkets slot https://mclo.gs/CEIWhtL
+enamel
