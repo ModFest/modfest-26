@@ -101,11 +101,11 @@
 		"files": {
 			"mods/chalkboard.pw.toml": {
 				"download": {
-					"hash": "344e9de8bf8ab30efa11fe40830333da1ca48af49e688dd687457ad2dc4d9076d54fe8dee9366a200509889e99c06e4574ed0bf60732a71891137b9d5f64d7a6",
+					"hash": "799fae8b0fb0b51995a77ebfb305ad51c53154e1ece08f14dd08bcc0dfa831883f85ceec51af40437c3796a2c06279629c783c179d826b6848a73bf48effd323",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Azgc1ZEh/versions/P9xebxft/chalkboard-26.5.2.1.jar"
+					"url": "https://cdn.modrinth.com/data/Azgc1ZEh/versions/RHR7u9xr/chalkboard-26.5.2.2.jar"
 				},
-				"filename": "chalkboard-26.5.2.1.jar",
+				"filename": "chalkboard-26.5.2.2.jar",
 				"name": "Chalkboard",
 				"side": "both"
 			},
@@ -120,7 +120,7 @@
 				"side": "both"
 			}
 		},
-		"key": "3ca71dff71b614ff4d9a91f0d085b74560604d8aab5e79b789aef5d3ad46bf06"
+		"key": "382f5ddc8c3102154d7a6f5f1899e8b3b9578cea039ac4701a6ba152edfec238"
 	},
 	"combat-toggle": {
 		"checks": {
@@ -323,16 +323,16 @@
 		"files": {
 			"mods/hotdognalds.pw.toml": {
 				"download": {
-					"hash": "13f077eaa694d59fb5e719881c9f1d6fe3ec1d35714af979f22b292da1fac12d875eedfd86d5bfafd33d9309edb1f9cd1c189a86834cd390f7e91a36927c01a8",
+					"hash": "7f781bd36980080fcedab3006ebad5807021be2db0b82ddc5b651f98e4499802820bbe34f37a880617f21fbe0fe0113d6a99472387ceb02a1687808ddc0ee469",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/g0zHrDtk/versions/kqWy2vJy/hotdognalds-0.5.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/g0zHrDtk/versions/7F0tt8uV/hotdognalds-0.5.1%2B26.1.2.jar"
 				},
-				"filename": "hotdognalds-0.5.0+26.1.2.jar",
+				"filename": "hotdognalds-0.5.1+26.1.2.jar",
 				"name": "Hotdognald's",
 				"side": "both"
 			}
 		},
-		"key": "194c019356a640c2b28ce87c4b0e05399fc2a43922a2d9c4fd0179f7bc0a5168"
+		"key": "ac9e6fa03d9a4ced9a4e7e0ea1a04fafef0352599f8ca2be383779dafb19b4df"
 	},
 	"ikhemusek": {
 		"checks": {
@@ -630,15 +630,15 @@
 			},
 			"mods/slime-time.pw.toml": {
 				"download": {
-					"hash": "c0893bcd00c1a084b92487b2efad8c0cce0173fc9fda87aa5d8018a918d608ddb484a568b65ec970a697c2f2f50103640b7ca390c6c26952a1edeb9deca2fcdb",
+					"hash": "6aa0fbcfd53946672e032d8aa4887c0c1550318936e47e020ed5d659288e142f834202fb963992a5353025f6da2d5cb4b0cdcab5794bb9efd9dc496fd88c1bad",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/RRsJmoGM/versions/husc8PfW/slime-time-1.0.2%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/RRsJmoGM/versions/gaAVXNgI/slime-time-1.0.3%2B26.1.2.jar"
 				},
-				"filename": "slime-time-1.0.2+26.1.2.jar",
+				"filename": "slime-time-1.0.3+26.1.2.jar",
 				"name": "Slime Time",
 				"side": "both"
 			}
 		},
-		"key": "50b044a3855a2dd1faf9810e4d95a89799208d079b9b181fd2179876602a822c"
+		"key": "0e11d3c06a864d099222516cf857781a8f19118f57a276fd8803d610b38a6448"
 	}
 }
