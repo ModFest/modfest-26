@@ -284,16 +284,16 @@
 		"files": {
 			"mods/botanicmagic.pw.toml": {
 				"download": {
-					"hash": "188744021659dbf70a1fc0a75148c76fab96693a3b64a9d64c52dbfbcdef338eb5b61d54365cb6cf6a561e37bf0dd0ae16345f1e8913dba6d4f63f6c078316a2",
+					"hash": "51a94b8423d328c4e7215558ca00cddd0bf3b740acedbb6361f590c67a118aff7a29e0427eaec9c9d5fa1004c97589e8f69d3c59cac8339fa7038f4e27ded291",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ZToiHgit/versions/FFWLB89Y/botanicmagic-1.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/ZToiHgit/versions/Hql18ZWg/botanicmagic-1.0.2.jar"
 				},
-				"filename": "botanicmagic-1.0.1.jar",
+				"filename": "botanicmagic-1.0.2.jar",
 				"name": "Botanic Magic",
 				"side": "both"
 			}
 		},
-		"key": "5fa36a65b5dd9e3095656d3bf12173d23764629c8543b5dcd248d2b206c12de8"
+		"key": "18a98ac6c360f05da8f5ac900e879486cca6481266bed8f086098c28f1edb9e2"
 	},
 	"chalkboard": {
 		"checks": {

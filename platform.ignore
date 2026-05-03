@@ -16,7 +16,7 @@
 creeper-crush
 
 #needs mc version update
-botanicmagic
+#botanicmagic
 
 # incompat deps
 batoru
@@ -26,3 +26,6 @@ honeypots
 
 #LocalPLayer on server
 assorted-appetizers
+
+# putting thing in trinket slot crashes
+astraglossa
