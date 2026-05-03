@@ -216,7 +216,7 @@
 				"side": "both"
 			}
 		},
-		"key": "c0e93089cbee6c644a38d233974a9ba08469bd72fe84f914fb29a8646084ba3a"
+		"key": "a2c2e55de99eb8cc1c79f5693b0a5ee95df414e0b0fce44654c21d4b24546b4e"
 	},
 	"bloom-festal": {
 		"checks": {
@@ -246,6 +246,35 @@
 			}
 		},
 		"key": "72117685a1612b00e6d639cb19956f190fdc082acc575678f4befccf00752bde"
+	},
+	"booyah": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
+		"files": {
+			"mods/booyah.pw.toml": {
+				"download": {
+					"hash": "27fcbe98b94501e1ca73c5b0ef333e5ff669d144c26d6b448759fdaac4d782f1cf14d81f87560efc5d8de3445441a50330278785b7ddc4f326bf9ff9115d810a",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/Auodzetb/booyah-0.0.1.jar"
+				},
+				"filename": "booyah-0.0.1.jar",
+				"name": "Booyah!",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			}
+		},
+		"key": "5a6c83258199fb786e0a240c5138279b94ffce3245be684e376524fbbf8acdb5"
 	},
 	"botanicmagic": {
 		"checks": {
