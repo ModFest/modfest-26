@@ -15,14 +15,14 @@
 # crash on load
 creeper-crush
 
-#needs mc version update
-#botanicmagic
+# expects nonexistent class
+botanicmagic
 
 # incompat deps
 batoru
 
 # recipe crash
-honeypots
+#honeypots
 
 #LocalPLayer on server
 assorted-appetizers

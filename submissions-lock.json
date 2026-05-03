@@ -255,26 +255,16 @@
 		"files": {
 			"mods/booyah.pw.toml": {
 				"download": {
-					"hash": "27fcbe98b94501e1ca73c5b0ef333e5ff669d144c26d6b448759fdaac4d782f1cf14d81f87560efc5d8de3445441a50330278785b7ddc4f326bf9ff9115d810a",
+					"hash": "289679f783a306e4390c3fe628efd8e0c4196e619c4134ce9b9d9bd1efd9238613ae896cb87c11175a6b432a09eb0d9805dc9646e2f12f216ec391457c07d7a5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/Auodzetb/booyah-0.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/70fHyPzb/booyah-0.0.2.jar"
 				},
-				"filename": "booyah-0.0.1.jar",
+				"filename": "booyah-0.0.2.jar",
 				"name": "Booyah!",
-				"side": "both"
-			},
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
-				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
-				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "5a6c83258199fb786e0a240c5138279b94ffce3245be684e376524fbbf8acdb5"
+		"key": "c85ce63b100e382094f4951a6022c9362f59752aa8ecd615be3dc5eea10ca6fd"
 	},
 	"botanicmagic": {
 		"checks": {
@@ -535,16 +525,16 @@
 			},
 			"mods/honeypots.pw.toml": {
 				"download": {
-					"hash": "8dcd6a16504892616647d832001baa1cacc27ec17425719977665a045e9e0c3c209275616d36ac495a3505aa5a503bae756a23ab1100d8832fa228f123ae041d",
+					"hash": "fb284271cfc658f4406847adf4b3ee16640d675752517af47b264234046c45daf7bce91f8edbf3ea199e55745bbf3412e279ea640230ae0820cd1a2479fd7763",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Nd9XDQtQ/versions/HOPInpie/honeypots-1.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/Nd9XDQtQ/versions/ZEaMTMMc/honeypots-1.1.2.jar"
 				},
-				"filename": "honeypots-1.1.1.jar",
+				"filename": "honeypots-1.1.2.jar",
 				"name": "HoneyPots",
 				"side": "both"
 			}
 		},
-		"key": "60d2748999a0ce992e0d6a82f209c3f14d94afa8bd95b780591839a45a5d68e4"
+		"key": "59e4dbc7b0aadc4ed9b7e0350c06dd9ed973ef174193c8b94dff5a63e70c8b82"
 	},
 	"hotdognalds": {
 		"checks": {
