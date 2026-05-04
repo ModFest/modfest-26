@@ -841,16 +841,16 @@
 		"files": {
 			"mods/mugann.pw.toml": {
 				"download": {
-					"hash": "207e1101608a6af4aee5bcfcd72cee3348cab0c80c954837b151227b8cf0b87e11fd15e9d4283a8f1fd04fc1269da65f2bc168902ca0abc221ea4935ec6c59b2",
+					"hash": "46ecbc7dc9ee3efd4d08b96f9fde4ac9f8c05393e6c378cec5a96ede6314c4a51c85d4fdeceb6cd981535e2abc8684f8065ff07041376d5089247cd79524fa8e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/uhYhwVOQ/mugann-1.0.4.jar"
+					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/CZReZ7wR/mugann-1.0.5.jar"
 				},
-				"filename": "mugann-1.0.4.jar",
+				"filename": "mugann-1.0.5.jar",
 				"name": "Mugann",
 				"side": "both"
 			}
 		},
-		"key": "78b3d0615a276986af1da06294a347294948259d6f08d2da90805615aaccd975"
+		"key": "cba2f9d93a7ce42efac21a93aeeb1124253267ee05af7be72222f733f1b6f365"
 	},
 	"omikuji": {
 		"checks": {
