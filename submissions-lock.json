@@ -44,16 +44,16 @@
 		"files": {
 			"mods/arbitration.pw.toml": {
 				"download": {
-					"hash": "4ccabcf60bb7b7c22c3ecb3296f8643714e4bb62862c74ce0aa4ecc8dd34a134ee9ad0a3e7d3d08f349b7ddc497a8c4f760fb11ee7f04c763505d0a10e8b3f65",
+					"hash": "1efa160dbdcbddfcea8d755d7b2cc719a074154d2a4d57d075f1389f586f2c8266e03426d368068553a84349dca66efe22615394303e9541d84688757c772f99",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xSJDsTRj/versions/5l7ygPW7/arbitration-1.2.1%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/xSJDsTRj/versions/4lwkkb8E/arbitration-1.3.0%2Bfabric-26.1.jar"
 				},
-				"filename": "arbitration-1.2.1+fabric-26.1.jar",
+				"filename": "arbitration-1.3.0+fabric-26.1.jar",
 				"name": "Arbitration",
 				"side": "both"
 			}
 		},
-		"key": "32ec3aa709badcea961cc6e9dde24825591a58f9e1d165f6248eda0813cac4c4"
+		"key": "6a1fd12715e87655a15a42849c023052bb178dc86d8ac081f136437d931f9e36"
 	},
 	"archery-gimmicks": {
 		"checks": {
@@ -92,16 +92,16 @@
 		"files": {
 			"mods/assorted-appetizers.pw.toml": {
 				"download": {
-					"hash": "650f4c888d5f2096d250ccc08dbce83bfa048b126de31e62d3d07c317edcc3b9a915f94228f6048ac439062ac21e3efbc204912ed93df459aaecbaeacb258e04",
+					"hash": "e0461680335f7e053fcffedb18a8bc05225c989804f91e410442cc15405a991ce98cc46f076c916ae471e34b9d370a55f60471ad86dd98434f5b40b2acde4954",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/cC2HeVYB/versions/vbkiFCxz/appetizers-1.4.2.jar"
+					"url": "https://cdn.modrinth.com/data/cC2HeVYB/versions/V8XmvQ7N/appetizers-1.4.3.jar"
 				},
-				"filename": "appetizers-1.4.2.jar",
+				"filename": "appetizers-1.4.3.jar",
 				"name": "Assorted Appetizers",
 				"side": "both"
 			}
 		},
-		"key": "407f787517fe2b52b3abae17ae636281e345cf75faf67414cac440ad370284f7"
+		"key": "91c52549dac66c851e72f615bd19c470bb171788ac2f1ce0f17be23f933641b7"
 	},
 	"astraglossa": {
 		"checks": {
@@ -696,6 +696,16 @@
 			"tested": false
 		},
 		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
 			"mods/letters-of-effection.pw.toml": {
 				"download": {
 					"hash": "4369c4e4325840e1cb5868cff20ee6310a30fe9276215ebd228688c0b4aef8a540a9d64c6e672c6000a42ce1c1b370db13bed1a194d4978d26b613923396c5b2",
@@ -897,16 +907,16 @@
 		"files": {
 			"mods/one-button-doorbells.pw.toml": {
 				"download": {
-					"hash": "f1ea5776ad5fd9cba63337745c073ccbb4959033b5d8c0053b91cffaa793a44fe40c134e7823b708e5825606cae8ee1c1beb92885afe3be9d5d2ae4d6aeb7e03",
+					"hash": "6e8e4dc80cf6352e5c30497d2525fd592330475a19b37c4356d7c496c6ccddd58890abbe6c784c82d850baae97967f9f35d2024190b1ce728f33ce88ed0abc0f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vr052JBC/versions/YZmizYJm/one-button-doorbells-0.1.1%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/vr052JBC/versions/fWNS6a2n/one-button-doorbells-0.1.2%2Bfabric-26.1.jar"
 				},
-				"filename": "one-button-doorbells-0.1.1+fabric-26.1.jar",
+				"filename": "one-button-doorbells-0.1.2+fabric-26.1.jar",
 				"name": "One Button Doorbells",
 				"side": "both"
 			}
 		},
-		"key": "6b32ef5198a155ff342021418e502791f696dbe7be0000149f4e9a45636fd8a0"
+		"key": "8d075a21c3a4cdab22b7c42821af517518d6a3208a40be7aa8163c12d52b39b1"
 	},
 	"peace-lily": {
 		"checks": {
@@ -1095,6 +1105,16 @@
 				},
 				"filename": "fabric-api-0.148.0+26.1.2.jar",
 				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/scriboodle.pw.toml": {
+				"download": {
+					"hash": "df701bda7e1270dc4ef8efe44a784efde26ff09f34eef0241fc6aa285b0eeeb46098a3bbe22adf124d40b45195c812d10fcd8e851b4b444db0b9e6151c5d9938",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/1KTbgBgQ/versions/CQYWxOcZ/scriboodle-0.2.0.jar"
+				},
+				"filename": "scriboodle-0.2.0.jar",
+				"name": "Scriboodle",
 				"side": "both"
 			}
 		},
