@@ -92,16 +92,16 @@
 		"files": {
 			"mods/assorted-appetizers.pw.toml": {
 				"download": {
-					"hash": "e0461680335f7e053fcffedb18a8bc05225c989804f91e410442cc15405a991ce98cc46f076c916ae471e34b9d370a55f60471ad86dd98434f5b40b2acde4954",
+					"hash": "c0e56ac4f6652d36e15590e4a05ce743e467f6a624ef67396a0882df280797863c0def9ef29ac46d79af634544588b6dedaa64d0837f4378d78cb7e28d0b48ee",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/cC2HeVYB/versions/V8XmvQ7N/appetizers-1.4.3.jar"
+					"url": "https://cdn.modrinth.com/data/cC2HeVYB/versions/D3S8UDWN/appetizers-1.5.0.jar"
 				},
-				"filename": "appetizers-1.4.3.jar",
+				"filename": "appetizers-1.5.0.jar",
 				"name": "Assorted Appetizers",
 				"side": "both"
 			}
 		},
-		"key": "91c52549dac66c851e72f615bd19c470bb171788ac2f1ce0f17be23f933641b7"
+		"key": "6e0387a4a54f3b4430c50a0aad8178b752345c7d33da00f6e6b1d5a7052e05bd"
 	},
 	"astraglossa": {
 		"checks": {
@@ -430,6 +430,35 @@
 		},
 		"key": "76b44b14540fe732798a7d49fa1473b8be94aa60af02313da453ae48f6e94b42"
 	},
+	"ensemble-mod": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
+		"files": {
+			"mods/ensemble-mod.pw.toml": {
+				"download": {
+					"hash": "03d8209d4d805402367ffb3200f2c25d308593ccb9d66388a11a6644f570933d520e5d69c4a337d2750ddbbf766e9015cf117239bcbd14eb0b95b0b1d7951669",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/UXxMkGEw/versions/DqivA6Xj/ensemble-fabric-26.1.2-1.0.0-alpha.jar"
+				},
+				"filename": "ensemble-fabric-26.1.2-1.0.0-alpha.jar",
+				"name": "Ensemble",
+				"side": "both"
+			},
+			"mods/fabric-language-kotlin.pw.toml": {
+				"download": {
+					"hash": "fa5ed2613f7216999cc0c5ddc71906f082a32b52507d7160acbdcf0eb8de12993ba302e5afde6681d025008ecc66c7533fc0c21deb672ef681b2194fb9be4245",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/2i87JpYj/fabric-language-kotlin-1.13.11%2Bkotlin.2.3.21.jar"
+				},
+				"filename": "fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
+				"name": "Fabric Language Kotlin",
+				"side": "both"
+			}
+		},
+		"key": "cf9ba6ce7102e949142cfeddeb86f3bc8f90a1096b64c2c91974cbb1a77c953f"
+	},
 	"etaerio-eaterie": {
 		"checks": {
 			"claimed": false,
@@ -592,11 +621,11 @@
 			},
 			"mods/japes.pw.toml": {
 				"download": {
-					"hash": "1259b40db50a6b58313692517c86c1c59bae7f6d1044d23610833f8d63ad273c335cf9f26e64967e6bc4a25fabe4c65a41a1f638b5c007ea8c9aeb43551f03d5",
+					"hash": "956fc66ebea5f1ce77a6dc9927a8a51348f034d8ef3f41f4c52f50008cca1ad3c34d249c83415f21693133a2d1780e65e2aaec604891285e27b96c37b4a377a5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/kdqGQMXW/versions/PC39i7rj/japes-1.0.0%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/kdqGQMXW/versions/XouTSFXw/japes-1.0.2%2Bfabric-26.1.jar"
 				},
-				"filename": "japes-1.0.0+fabric-26.1.jar",
+				"filename": "japes-1.0.2+fabric-26.1.jar",
 				"name": "Japes!",
 				"side": "both"
 			},
@@ -611,7 +640,7 @@
 				"side": "both"
 			}
 		},
-		"key": "224e3bd93e6adf0df956f611cf42439c7cbce92351fb20740d4cb054590f0f55"
+		"key": "0d301840fd79ad0585d2efb3f3a0cc6c19256ba10461940cfb9695d08267bcd9"
 	},
 	"kawaii": {
 		"checks": {
@@ -896,8 +925,29 @@
 			"claimed": false,
 			"tested": false
 		},
-		"files": {},
-		"key": "1d46a9e7eb63b79502c322434a3ea5fbba1dea6c7b32429daa22a69b7a97298f"
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/omikuji.pw.toml": {
+				"download": {
+					"hash": "e4f912eac391575468be84a4fbc65a8cc759590f7a3ec327791aa8c7fef94ee2f09cee1b7fb254d0b4026fc28be50f5750b85d7f298b6d4da973c0a75a959add",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/2ysvAiO2/versions/Iq2rff5b/omikuji-1.0.0%2Bfabric-26.1.jar"
+				},
+				"filename": "omikuji-1.0.0+fabric-26.1.jar",
+				"name": "omikuji",
+				"side": "both"
+			}
+		},
+		"key": "ebafa529b7e64f9ee964720ac05b3292ede82581b2f989a2fafb9821d2989fa1"
 	},
 	"one-button-doorbells": {
 		"checks": {
@@ -1032,26 +1082,26 @@
 		"files": {
 			"mods/mmodding-library.pw.toml": {
 				"download": {
-					"hash": "9db6531514893be6fd965337d9637c4fe1a5796ecc0704485c95b432afe97e31bbe56c41e2c60ae43a1dba4d651a2af8b34944e22d284cbcc7eb3ac768dc8991",
+					"hash": "8a294083dc21f8bbf2c06482ca145698a0dae9c7bccd721955294244c181e470b49f08ce6a5250b196f603481f0de1920107f403d5ebcdda86e81eaf27d76e1f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/J3eDXLuX/versions/fEBrieeC/mmodding_library-0.1.0-alpha%2B26.1.jar"
+					"url": "https://cdn.modrinth.com/data/J3eDXLuX/versions/M9K1rlX7/mmodding_library-0.1.1-alpha%2B26.1.jar"
 				},
-				"filename": "mmodding_library-0.1.0-alpha+26.1.jar",
+				"filename": "mmodding_library-0.1.1-alpha+26.1.jar",
 				"name": "MModding Library",
 				"side": "both"
 			},
 			"mods/psithurism.pw.toml": {
 				"download": {
-					"hash": "df4fb08d29e28e927be811a217188757e6ee6f16d6fab9994437b451ed22607e1119e1801882ac1b71a87b3ea3817972de6eab431391d4e3d598e233fbbe7086",
+					"hash": "6e7a61c2a7ef563988b3f5ca3ad222da7fc300fc55c53e6b2447ff1033879051bc520645a864b4f431346ce32db0b8808c8c4f08f0835e496e7adbce48dfc182",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/3wdNAIW9/versions/5UdtpjHq/psithurism-1.0.0%2B26.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/3wdNAIW9/versions/Ru7AEWVB/psithurism-1.0.1%2B26.1.1.jar"
 				},
-				"filename": "psithurism-1.0.0+26.1.1.jar",
+				"filename": "psithurism-1.0.1+26.1.1.jar",
 				"name": "Psithurism",
 				"side": "both"
 			}
 		},
-		"key": "fe512ad87836de0137dd92ddddc5b96d6161e73a79f204b2acce4f033fc61c1a"
+		"key": "724d56258a8b61509df4c6c361724dd85633916c6470b3deafb3a3251f565721"
 	},
 	"reliable-gliders": {
 		"checks": {
@@ -1109,16 +1159,16 @@
 			},
 			"mods/scriboodle.pw.toml": {
 				"download": {
-					"hash": "df701bda7e1270dc4ef8efe44a784efde26ff09f34eef0241fc6aa285b0eeeb46098a3bbe22adf124d40b45195c812d10fcd8e851b4b444db0b9e6151c5d9938",
+					"hash": "c1c1a6fe6b7136a222324a22396055ea3ead26ab26a409478ab1dc804b75359eb6e0d424cf2bd6550e18256f1842ee1d562167389254f8ab9d2ce097170ba9ee",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1KTbgBgQ/versions/CQYWxOcZ/scriboodle-0.2.0.jar"
+					"url": "https://cdn.modrinth.com/data/1KTbgBgQ/versions/fTOg4YbB/scriboodle-0.2.2.jar"
 				},
-				"filename": "scriboodle-0.2.0.jar",
+				"filename": "scriboodle-0.2.2.jar",
 				"name": "Scriboodle",
 				"side": "both"
 			}
 		},
-		"key": "494f358ab2585eea25ec072a29f64b0461c01b0744f6c70df33ea1618e3853cd"
+		"key": "3f39ae6748df5396acedd221a90c770a47cd26ba9517937066c5f7db1ec697fd"
 	},
 	"slime-time": {
 		"checks": {
@@ -1206,16 +1256,55 @@
 			},
 			"mods/street-art.pw.toml": {
 				"download": {
-					"hash": "25f185a9d70e176d76b1ff685bb9735c7dd2f8d69bc0a020fe7feb7214864e28be78bf98e3682c39e8c121685b7785af9a8a153d77e7f1d2b82ca8b05c32ed44",
+					"hash": "88d6d913b639ab056309caa68b601a401ab8b3901eb06e964414d337fdf8eec50dbfe36b62d364c54125cd8b99d24e55c8029329282ee2bdf87775804c939293",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/C9h8rE2Z/street_art-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/g8k0kPid/street_art-1.0.1.jar"
 				},
-				"filename": "street_art-1.0.0.jar",
+				"filename": "street_art-1.0.1.jar",
 				"name": "Street Art",
+				"side": "both"
+			},
+			"mods/yacl.pw.toml": {
+				"download": {
+					"hash": "c725d81ef2b8f7f4b3c1c127e782572778a765581ce6105e2c4ce77e642b52b2c99b1587f18af192ad649538e4844dda6807e2ecda0a493d09f7f06a346ac377",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/hzww5Tor/yet_another_config_lib_v3-3.9.3%2B26.1-fabric.jar"
+				},
+				"filename": "yet_another_config_lib_v3-3.9.3+26.1-fabric.jar",
+				"name": "YetAnotherConfigLib (YACL)",
 				"side": "both"
 			}
 		},
-		"key": "5ddf46125f13f375a359a470ae32c4b9c96fdbc1846d95a7d4a8f314cf2755d2"
+		"key": "a50c542b9f7fa347b6a5c4ca20912669d3d6f5fd21edfaf83f5375b0b65623f1"
+	},
+	"under-the-cherry-trees": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/under-the-cherry-trees.pw.toml": {
+				"download": {
+					"hash": "a62bf31d8b266cf5e982b9b2759725215dd2810b4d639502f1d21b978d8cd72549b69bc91f80d8cc14d5bb6daaf44412d500ca35e2d3701373a89229a4ffb84d",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/wRrwe0yB/versions/JGKrh6eb/under-the-cherry-trees-1.0.0.jar"
+				},
+				"filename": "under-the-cherry-trees-1.0.0.jar",
+				"name": "Under The Cherry Trees",
+				"side": "both"
+			}
+		},
+		"key": "fd01036ee02be156cc780f7e0a7e1540f3c945a014349222aebfebb521de9619"
 	},
 	"voidstain-hypoidol": {
 		"checks": {
