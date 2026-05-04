@@ -44,16 +44,16 @@
 		"files": {
 			"mods/arbitration.pw.toml": {
 				"download": {
-					"hash": "287f50d21b3fa36cd289f061f9d82a9795b2ed0807ac4edcafbe363fe9fa08eb5f4f4f985a9e599aa02a54bc58aed62decb404a2bf612e086ef17a7820c77d3c",
+					"hash": "4ccabcf60bb7b7c22c3ecb3296f8643714e4bb62862c74ce0aa4ecc8dd34a134ee9ad0a3e7d3d08f349b7ddc497a8c4f760fb11ee7f04c763505d0a10e8b3f65",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xSJDsTRj/versions/nhNhUsOf/arbitration-1.2.1%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/xSJDsTRj/versions/5l7ygPW7/arbitration-1.2.1%2Bfabric-26.1.jar"
 				},
 				"filename": "arbitration-1.2.1+fabric-26.1.jar",
 				"name": "Arbitration",
 				"side": "both"
 			}
 		},
-		"key": "b1f133d8593abd221ff9edb262306c3a32e524432afe131257237f01b8fca9d8"
+		"key": "32ec3aa709badcea961cc6e9dde24825591a58f9e1d165f6248eda0813cac4c4"
 	},
 	"archery-gimmicks": {
 		"checks": {
@@ -592,16 +592,26 @@
 			},
 			"mods/japes.pw.toml": {
 				"download": {
-					"hash": "7f2e3f0398d8b9f7faddb420e5a1cbd2bbdabffeefcbc9a4d4965477ee71a2fe6aa8ace9e6218e5b310844bb983c4c2cea23c9b785cf9edd18aabb884b477dfd",
+					"hash": "1259b40db50a6b58313692517c86c1c59bae7f6d1044d23610833f8d63ad273c335cf9f26e64967e6bc4a25fabe4c65a41a1f638b5c007ea8c9aeb43551f03d5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/kdqGQMXW/versions/TQpq5LlV/japes-0.1.0%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/kdqGQMXW/versions/PC39i7rj/japes-1.0.0%2Bfabric-26.1.jar"
 				},
-				"filename": "japes-0.1.0+fabric-26.1.jar",
+				"filename": "japes-1.0.0+fabric-26.1.jar",
 				"name": "Japes!",
+				"side": "both"
+			},
+			"mods/trinkets-updated.pw.toml": {
+				"download": {
+					"hash": "b31f27a1a2e6c72283cf5f3c89980dad452a9d4c91511b4d7c41dad45b6d261f7ee9abe6e42617a1eb5c950de861609d77182474a852efbdfc8d6b6b015a664a",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/XaT8sLP6/versions/CFk62USu/trinkets-4.0.0-alpha.9%2B26.1.jar"
+				},
+				"filename": "trinkets-4.0.0-alpha.9+26.1.jar",
+				"name": "Trinkets Updated",
 				"side": "both"
 			}
 		},
-		"key": "83ca76f8ae91ce0c56015edd565c92f8ef49f807e6919ad5d5bb0d42385b5224"
+		"key": "224e3bd93e6adf0df956f611cf42439c7cbce92351fb20740d4cb054590f0f55"
 	},
 	"kawaii": {
 		"checks": {
@@ -841,16 +851,35 @@
 		"files": {
 			"mods/mugann.pw.toml": {
 				"download": {
-					"hash": "46ecbc7dc9ee3efd4d08b96f9fde4ac9f8c05393e6c378cec5a96ede6314c4a51c85d4fdeceb6cd981535e2abc8684f8065ff07041376d5089247cd79524fa8e",
+					"hash": "84004e67e9cf7e029da0073bf3aa5d2a4f3c75b3c0dcfe340918339aca5b39f33e82425e2040395bca2ca806897dcdcee7d674634dcfc186688798c55bd3948f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/CZReZ7wR/mugann-1.0.5.jar"
+					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/t3Hg8FlW/mugann-1.0.6.jar"
 				},
-				"filename": "mugann-1.0.5.jar",
+				"filename": "mugann-1.0.6.jar",
 				"name": "Mugann",
 				"side": "both"
 			}
 		},
-		"key": "cba2f9d93a7ce42efac21a93aeeb1124253267ee05af7be72222f733f1b6f365"
+		"key": "7cc8cd723a955e351a77bf6438e3b4c33b42857ab815b815ed52a8a9bf643c38"
+	},
+	"off-the-shelf": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
+		"files": {
+			"mods/off-the-shelf.pw.toml": {
+				"download": {
+					"hash": "f9d28d365fc1f1a126c3e714ff62a95fab17b4a0d2331a3fc84765a814c7a2166fbec5a6eaf2f53102c074d5915f780335abbf4f3efc6a161c5fb39bec3e16e2",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/ik7wleMZ/versions/Xl7kvcI3/offtheshelf-1.0.0-26.1.2.jar"
+				},
+				"filename": "offtheshelf-1.0.0-26.1.2.jar",
+				"name": "Off The Shelf",
+				"side": "both"
+			}
+		},
+		"key": "a717e354dbf4873ed67dcd886e426c5a723f4bb9d04a7f4d167103cbc049d7f6"
 	},
 	"omikuji": {
 		"checks": {
@@ -866,28 +895,18 @@
 			"tested": false
 		},
 		"files": {
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
-				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
-				"name": "Fabric API",
-				"side": "both"
-			},
 			"mods/one-button-doorbells.pw.toml": {
 				"download": {
-					"hash": "9c9ee33dfe81f88ff542ac11993adde714455872cfbb2018db6e5632128cd535e4fa3fcffa36ac6ff8571442a1e112b5d19067ea5312d8c26c6f70633b659b23",
+					"hash": "f1ea5776ad5fd9cba63337745c073ccbb4959033b5d8c0053b91cffaa793a44fe40c134e7823b708e5825606cae8ee1c1beb92885afe3be9d5d2ae4d6aeb7e03",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vr052JBC/versions/wch0LcUI/one-button-doorbells-0.1.0%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/vr052JBC/versions/YZmizYJm/one-button-doorbells-0.1.1%2Bfabric-26.1.jar"
 				},
-				"filename": "one-button-doorbells-0.1.0+fabric-26.1.jar",
+				"filename": "one-button-doorbells-0.1.1+fabric-26.1.jar",
 				"name": "One Button Doorbells",
 				"side": "both"
 			}
 		},
-		"key": "6967bdfb4535ea8f81721cbcda8a6cffc0c67f81b467bf8f149da9e82fee37fb"
+		"key": "6b32ef5198a155ff342021418e502791f696dbe7be0000149f4e9a45636fd8a0"
 	},
 	"peace-lily": {
 		"checks": {
