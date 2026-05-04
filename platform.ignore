@@ -18,8 +18,8 @@
 # expects nonexistent class
 botanicmagic
 
-# incompat deps
-#batoru
+# lots of ticking entity crashes
+batoru
 
 # recipe crash
 #honeypots
