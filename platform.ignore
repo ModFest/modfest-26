@@ -13,19 +13,23 @@
 
 
 # crash on load
-creeper-crush
+#creeper-crush
 
 # expects nonexistent class
-botanicmagic
+#botanicmagic
 
 # incompat deps
-batoru
+#batoru
 
 # recipe crash
 #honeypots
 
 #LocalPLayer on server
-assorted-appetizers
+#assorted-appetizers
 
 # putting thing in trinket slot crashes
-astraglossa
+#astraglossa
+
+
+# duplicate villagers
+#letters-of-effection

@@ -92,16 +92,16 @@
 		"files": {
 			"mods/assorted-appetizers.pw.toml": {
 				"download": {
-					"hash": "3352999d022a4b194412455dc27d1636534d83c040d6e80e3c74c6418ee79ef0a2e02db352311d1d8e4a57a90bbab2b8d514132e799f5cb7cae8864264ae5e99",
+					"hash": "50019dd00221b7fdf1fb57e041078057d0e2a739f947395ac929629057123d514cbc9da0df2e619ae209882a19b5f8254bd668eb5ce1b156d1c6445336e1dcf7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/cC2HeVYB/versions/D45qE5Bf/appetizers-1.3.2.jar"
+					"url": "https://cdn.modrinth.com/data/cC2HeVYB/versions/Fi9ro6Nj/appetizers-1.3.3.jar"
 				},
-				"filename": "appetizers-1.3.2.jar",
+				"filename": "appetizers-1.3.3.jar",
 				"name": "Assorted Appetizers",
 				"side": "both"
 			}
 		},
-		"key": "883251e1cc6ce11d5e7c51122fef923eb8242162125d1a0e3788fe6b3e400b54"
+		"key": "a7dc8d136ff35290926b037e8c06181faa8f95f8b8890da1be6dc0c3b7726e10"
 	},
 	"astraglossa": {
 		"checks": {
@@ -111,16 +111,16 @@
 		"files": {
 			"mods/astraglossa.pw.toml": {
 				"download": {
-					"hash": "52e17e75592f5bc072c4357d51c9cacb4c1bc3dbedc9921688eae45159ff2c5a111cc22f0f6e0ac82a6ac25b84a5303c78bde69257040ddbd57e5f546dc16455",
+					"hash": "59a71298a1a8f359f27282360f1ee139c8757d48a96fbbf14b1aa58112550752f73eecb12d2d1fae5713c87b5aad3422906acc8d4ffaec99f14789f31748950b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1yOi1X5j/versions/M8mgcjsI/astraglossa-0.4.1%2Btrunk.jar"
+					"url": "https://cdn.modrinth.com/data/1yOi1X5j/versions/gEGhd65Q/astraglossa-0.4.2%2Btrunk.jar"
 				},
-				"filename": "astraglossa-0.4.1+trunk.jar",
+				"filename": "astraglossa-0.4.2+trunk.jar",
 				"name": "astraglossa",
 				"side": "both"
 			}
 		},
-		"key": "4a565ea2db3e329c955fd120cb5925d1eaf831b289b2e359779fe69279453208"
+		"key": "cccb3c1281637257d7eb18fc4d99650ebafe01c73c338fce755a12e9cc332239"
 	},
 	"attire-craft": {
 		"checks": {
@@ -274,16 +274,16 @@
 		"files": {
 			"mods/botanicmagic.pw.toml": {
 				"download": {
-					"hash": "51a94b8423d328c4e7215558ca00cddd0bf3b740acedbb6361f590c67a118aff7a29e0427eaec9c9d5fa1004c97589e8f69d3c59cac8339fa7038f4e27ded291",
+					"hash": "2d7124814dbdf941a86a8fc28df3cc32725d8dd58228d9806d4e01cb31626fb15cae09ddf714cfd8e46f343ce3c5e9eaa11ddce0af0540d1184e19bb94c4f17a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ZToiHgit/versions/Hql18ZWg/botanicmagic-1.0.2.jar"
+					"url": "https://cdn.modrinth.com/data/ZToiHgit/versions/jSHkjhS3/botanicmagic-1.0.3.jar"
 				},
-				"filename": "botanicmagic-1.0.2.jar",
+				"filename": "botanicmagic-1.0.3.jar",
 				"name": "Botanic Magic",
 				"side": "both"
 			}
 		},
-		"key": "18a98ac6c360f05da8f5ac900e879486cca6481266bed8f086098c28f1edb9e2"
+		"key": "a5b15b767dabb8f9a8cc6372cd1ba2e1acfdb5c2eed4bfbdd40fca9a56953939"
 	},
 	"chalkboard": {
 		"checks": {
@@ -603,6 +603,25 @@
 		},
 		"key": "83ca76f8ae91ce0c56015edd565c92f8ef49f807e6919ad5d5bb0d42385b5224"
 	},
+	"kawaii": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
+		"files": {
+			"mods/kawaii.pw.toml": {
+				"download": {
+					"hash": "5fe2c5346380bd0dcafb4b3e31d3ce365ef8945cad509ade406d9038433ba2e013b13d643c5a66e4a23b2ff5cea42b9759604f0a2d81608f1d1bbfae21fa423c",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/J7GwounQ/versions/xOzI1KuR/kawaii4200-1.0.0.jar"
+				},
+				"filename": "kawaii4200-1.0.0.jar",
+				"name": "Kawaii",
+				"side": "both"
+			}
+		},
+		"key": "a65051a9fa97e4da95c8da2c29c36d81fbb43f06cc72d2a849ff362c71c9dd34"
+	},
 	"kibss": {
 		"checks": {
 			"claimed": false,
@@ -621,16 +640,16 @@
 			},
 			"mods/kibss.pw.toml": {
 				"download": {
-					"hash": "5a3af6cad8130a077253b3b3389b5bc49677b03e2971aa1490fccf929f4597acef8330f239bf87840ab58eb38a0d57551ff4e4d2566504738b0affe57e3e0b1d",
+					"hash": "91c12f36b67037428401ce9fcc3a8e97c242b446bb30366fbad1a5a5faf09e03a33457fcb99e4eb94c105ebef87f06bead5a151ab6743552ccc5f3127c85fc47",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P8ceGr8k/versions/kRJ9HZun/kibss-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/P8ceGr8k/versions/3yPwQHiZ/kibss-1.1.0.jar"
 				},
-				"filename": "kibss-1.0.0.jar",
+				"filename": "kibss-1.1.0.jar",
 				"name": "Kibss",
 				"side": "both"
 			}
 		},
-		"key": "404ed3c62ca9132f7c33b06d4271de5f803ed4fa298bd5afdfee45560b3d141d"
+		"key": "92bd349aa1e615fbf2352582e3d05265a2f95567d90901d014baba48fa5d6f41"
 	},
 	"kurasu": {
 		"checks": {
@@ -669,16 +688,16 @@
 		"files": {
 			"mods/letters-of-effection.pw.toml": {
 				"download": {
-					"hash": "44795363ed85fa93f682597a38f6c9051f27e50bb9d9c05f14302ef9982fa602adfb9234627c8e0687267f82ca7c38350d4b30f64122c97956eee1b4b18892d4",
+					"hash": "4369c4e4325840e1cb5868cff20ee6310a30fe9276215ebd228688c0b4aef8a540a9d64c6e672c6000a42ce1c1b370db13bed1a194d4978d26b613923396c5b2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/3lmd1o0a/versions/8FS47CyX/loe-1.2a-26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/3lmd1o0a/versions/c47DaJ9M/loe-1.3b-26.1.2.jar"
 				},
-				"filename": "loe-1.2a-26.1.2.jar",
+				"filename": "loe-1.3b-26.1.2.jar",
 				"name": "Letters Of Effection",
 				"side": "both"
 			}
 		},
-		"key": "05a421de47ed0ea568019f00cfbbc7150f4eab937b18e2f526844dabd16b950a"
+		"key": "b82c787fa89eca465e3972b1a985642b289f5800364e37cf83f2e1c660ba3371"
 	},
 	"lights-camera-action": {
 		"checks": {
@@ -803,16 +822,16 @@
 		"files": {
 			"mods/mugann.pw.toml": {
 				"download": {
-					"hash": "ef2829cc17b8a9de5bcf0341b49afd3def7224a605d210e4c4e2580ab6a67ad78f94dcd4d1d45b1e17db52e4f49e906b09b56ac2095522fcb29f8c0ba69cfe7a",
+					"hash": "348697eee5fa65b6f0cb789aad395b7eb8e10aa5381904cc8dc201869786416a69d083c9b30eef6070c3b51cb3a533fa88b586e9b27989edd71e3d040d2e0a9e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/Lnp2OJR5/mugann-1.0.2.jar"
+					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/MMEZnAXt/mugann-1.0.3.jar"
 				},
-				"filename": "mugann-1.0.2.jar",
+				"filename": "mugann-1.0.3.jar",
 				"name": "Mugann",
 				"side": "both"
 			}
 		},
-		"key": "ef9043d9d3cf1c4e27d575176fc767145604ab0f0410af2463d2a9d826c4b9f2"
+		"key": "bd84f25210468284c754f9bb0be439bd0f4090aba06470af9b8d2c54aebae454"
 	},
 	"peace-lily": {
 		"checks": {
@@ -1024,15 +1043,34 @@
 			},
 			"mods/slime-time.pw.toml": {
 				"download": {
-					"hash": "6aa0fbcfd53946672e032d8aa4887c0c1550318936e47e020ed5d659288e142f834202fb963992a5353025f6da2d5cb4b0cdcab5794bb9efd9dc496fd88c1bad",
+					"hash": "881de66741560e2582c516198abeeb1ab473af8bdff79dc2d89793523ad4675947fa36390dbad2c13237273a57fd9cf6b69432d8c9a55b4163b0461a65c59ab0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/RRsJmoGM/versions/gaAVXNgI/slime-time-1.0.3%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/RRsJmoGM/versions/zIIifBpT/slime-time-1.1.0%2B26.1.2.jar"
 				},
-				"filename": "slime-time-1.0.3+26.1.2.jar",
+				"filename": "slime-time-1.1.0+26.1.2.jar",
 				"name": "Slime Time",
 				"side": "both"
 			}
 		},
-		"key": "0e11d3c06a864d099222516cf857781a8f19118f57a276fd8803d610b38a6448"
+		"key": "55b5f6586b3f40ed57f5b4af7abf9f34b40dc4beb21b3c1a7dddd7f0258859ef"
+	},
+	"voidstain-hypoidol": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
+		"files": {
+			"mods/voidstain-hypoidol.pw.toml": {
+				"download": {
+					"hash": "03ec1b4b379d4617494db724858a15682f1b7ec869cc0f9b99acde6467833f2f61cd818efe57b5a9da0cbd9b265db6a974b65a7adb5cae796e4fad14a4129e96",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/xVavkZzR/versions/BBhePFtj/voidstain_hypoidol-0.1.0.jar"
+				},
+				"filename": "voidstain_hypoidol-0.1.0.jar",
+				"name": "Voidstain Hypoidol",
+				"side": "both"
+			}
+		},
+		"key": "0747a4b2443a7e26b5e013f42533e76780d61fc5f661c74d692e22154ae7368a"
 	}
 }
