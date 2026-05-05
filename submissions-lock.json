@@ -438,16 +438,26 @@
 		"files": {
 			"mods/ensemble-mod.pw.toml": {
 				"download": {
-					"hash": "3da454431cd9e545e95eb470745a670d2f572fae0cb2ff37f86c1ff669625352e5dfc6b96f2ff3f601e7e2cd7edcfcc9a0c3a3b4fc19450d42f4857114bfe7c0",
+					"hash": "ebf76b7948e75cdcbf28c20a3c6ad43ea2dd10e6a36dee1223881ff68bb16616076bd09f06f52defbcb9cc39aab66cb46d40cfc65363c896517715536345b0be",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/UXxMkGEw/versions/NrQUXqDK/ensemble-fabric-26.1.2-1.1.0-alpha.jar"
+					"url": "https://cdn.modrinth.com/data/UXxMkGEw/versions/fAyLio4o/ensemble-fabric-26.1.2-1.1.1-alpha.jar"
 				},
-				"filename": "ensemble-fabric-26.1.2-1.1.0-alpha.jar",
+				"filename": "ensemble-fabric-26.1.2-1.1.1-alpha.jar",
 				"name": "Ensemble",
+				"side": "both"
+			},
+			"mods/fabric-language-kotlin.pw.toml": {
+				"download": {
+					"hash": "fa5ed2613f7216999cc0c5ddc71906f082a32b52507d7160acbdcf0eb8de12993ba302e5afde6681d025008ecc66c7533fc0c21deb672ef681b2194fb9be4245",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/2i87JpYj/fabric-language-kotlin-1.13.11%2Bkotlin.2.3.21.jar"
+				},
+				"filename": "fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
+				"name": "Fabric Language Kotlin",
 				"side": "both"
 			}
 		},
-		"key": "5ca8d5ca453aec175d677f886b9880ecd58215d947355e92acf9e97a7dc8fdf3"
+		"key": "47c5b9b3bcd82165d9c208a42aa27c53037e5bdbdd04626599ec6c5f04cf2a87"
 	},
 	"etaerio-eaterie": {
 		"checks": {
@@ -640,16 +650,16 @@
 		"files": {
 			"mods/kawaii.pw.toml": {
 				"download": {
-					"hash": "a501fb6678184d5f8796b3d370c5ef86ded83a0e5aa786d766aea25ccf83e44327235d5ba10b33d4abe6a83c0bbc658d9fc924094cdbec40a65213abc990ff6d",
+					"hash": "c430ceb9ee3390a9a0020a8648ff0a1f0930f27352fe382942764f4f501c957b260e2bcd712fdd643d924a8abedac8b886baf373d4446dca12d3a95be45cf16e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/J7GwounQ/versions/6NymImEL/kawaii4200-1.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/J7GwounQ/versions/RGrqVVAB/kawaii4200-1.1.2.jar"
 				},
-				"filename": "kawaii4200-1.1.1.jar",
+				"filename": "kawaii4200-1.1.2.jar",
 				"name": "Kawaii",
 				"side": "both"
 			}
 		},
-		"key": "8f3e1b856461e3deb210e0bf9a54561824777f098bbc24d6287f3bd5c156eab0"
+		"key": "1e685699e9cff963797c924a64cd55472f112bb20c8738e148a1abaf13dedb55"
 	},
 	"kibss": {
 		"checks": {
@@ -852,6 +862,25 @@
 			}
 		},
 		"key": "99a1bae29155b528df27dc9184e1e33a8135845c84089c478eedfbbbd1a36718"
+	},
+	"meowdemic": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
+		"files": {
+			"mods/meowdemic.pw.toml": {
+				"download": {
+					"hash": "8f8c8694a637cf44bc118a5e2f19953305954d56784427c28ad78c084d29d79af6cb32127049685480cccd33ff9a8969d42e08004c15b1394c29e090396cc975",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/yA3H51Vo/meowdemic-1.0.0.jar"
+				},
+				"filename": "meowdemic-1.0.0.jar",
+				"name": "Meowdemic",
+				"side": "both"
+			}
+		},
+		"key": "a94bd468fe85e0c1fb1beb0afcd31362ffc847d05eed9b5b6efa95f06e5b987a"
 	},
 	"monday-night-mining": {
 		"checks": {
