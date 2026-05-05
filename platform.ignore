@@ -2,24 +2,8 @@
 # Each line should contain a submission id. The script will warn you
 # if the id does not refer to a submission
 
-# crash on server launch
-# Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/player/LocalPlayer
-#	at knot//net.thefluffycart.loe.items.LOEItems.<clinit>(LOEItems.java:24)
-#letters-of-effection
-
-
-#crash right after loading, ticking trinkets slot https://mclo.gs/CEIWhtL
-#enamel
-
-
-# crash on load
-#creeper-crush
-
-# expects nonexistent class
-#botanicmagic
-
 # lots of ticking entity crashes
 batoru
 
 # chunkbanning people with paint
-street-art
+#street-art
