@@ -7,11 +7,11 @@
 		"files": {
 			"mods/absurdly-amazing-alloys.pw.toml": {
 				"download": {
-					"hash": "b17a08401a730ce76151dc6b673ef4f5a415a428474c22bb11aed12e0f0ebb9cdf988500e8c0fcc819c36f363d905afd78f19030f2dfdfb3c6599b87eb7378b9",
+					"hash": "1a95820d8f828e4df04761fbad9a98d9ab2e279e15ea0b2eb0a854263bd5fec34670a50d1dc1872e37eb4c9ba9c3a78122faaa2dd2678e68948a475f288a225a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/XzFtgXMa/versions/lAv4pf8f/absurdly-amazing-alloys-0.1.0%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/XzFtgXMa/versions/M4tvihD6/absurdly-amazing-alloys-0.1.3%2Bfabric-26.1.jar"
 				},
-				"filename": "absurdly-amazing-alloys-0.1.0+fabric-26.1.jar",
+				"filename": "absurdly-amazing-alloys-0.1.3+fabric-26.1.jar",
 				"name": "Absurdly Amazing Alloys",
 				"side": "both"
 			},
@@ -26,15 +26,26 @@
 				"side": "both"
 			}
 		},
-		"key": "f0c42ca17108d1b2321b3c54a03309a632becae44f80cfa57c346dde369d32dd"
+		"key": "5eee9db819ff0586481bfa626c50751a64f496f10a006cf6c821b1cfc26e5029"
 	},
 	"advanced-classroom-furniture": {
 		"checks": {
 			"claimed": false,
 			"tested": false
 		},
-		"files": {},
-		"key": "2220e8e5d93e23b3eabaaad032a5263f0db725e07b55fbe4c5f40f3a45bd2171"
+		"files": {
+			"mods/advanced-classroom-furniture.pw.toml": {
+				"download": {
+					"hash": "7136c845938bec637022ae045ed4c5945bf3a5ebcd93499de50b5f86032592f5a6aa079887ac8e71205c23b42e2173c9ca10195ed093f04e3d535a56e2108de6",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/2B2ITxoC/versions/SjGbYdfE/classroomfurniture-1.0.0.jar"
+				},
+				"filename": "classroomfurniture-1.0.0.jar",
+				"name": "Advanced Classroom Furniture",
+				"side": "both"
+			}
+		},
+		"key": "eefae8f52a1484be84ff15b52614c100dfccfb0e30b0022efb706c114361b0d6"
 	},
 	"arbitration": {
 		"checks": {
@@ -44,11 +55,11 @@
 		"files": {
 			"mods/arbitration.pw.toml": {
 				"download": {
-					"hash": "b16e2fbc7345d68019dc9ccc710ea38eedad08851ae10c1131bdda5aaaa5fe58596aa7605d0fa9d8d6608614f51c4e0abcd940501ee93686b8387a974e9f15f6",
+					"hash": "8b4cf5a5273061a99b869ff285c10b75ec7f95a3199e5c9591a542da4a9f884814ee4379139e452fa27a48cfb85189e7caf0792b2b1e4acbe1d3e1312a5aca5d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xSJDsTRj/versions/baOWpy19/arbitration-1.3.4%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/xSJDsTRj/versions/VVmcUc3i/arbitration-1.3.7%2Bfabric-26.1.jar"
 				},
-				"filename": "arbitration-1.3.4+fabric-26.1.jar",
+				"filename": "arbitration-1.3.7+fabric-26.1.jar",
 				"name": "Arbitration",
 				"side": "both"
 			},
@@ -63,7 +74,7 @@
 				"side": "both"
 			}
 		},
-		"key": "55c3790a08b566422d85d68ca954236ad68e28fa80b4ced3d5ca44d6e37238de"
+		"key": "30a1078cfc2e1524cd9a14d9f89af479731e0b360c9905fddb8d90a2fe4b32c3"
 	},
 	"archery-gimmicks": {
 		"checks": {
@@ -303,11 +314,11 @@
 		"files": {
 			"mods/chalkboard.pw.toml": {
 				"download": {
-					"hash": "808659870ca6cebc4d334a5423b50b380b3aa4684298e3b579b212e3b6cdc2695e1e7091a943c138524d6be622dcbce6c58cbcb6a577562ebce2c51358f91f2b",
+					"hash": "a616775f0a0ba64245a4833c78fcb486ec4ae24f0acd8b12851364436923896e28e14ae5576941e01003bc167792a2f12f3f9c0632e0fb6c3802fc07096f09be",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Azgc1ZEh/versions/RmePZGaI/chalkboard-26.5.3.1.jar"
+					"url": "https://cdn.modrinth.com/data/Azgc1ZEh/versions/mCsj5ec7/chalkboard-26.5.6.jar"
 				},
-				"filename": "chalkboard-26.5.3.1.jar",
+				"filename": "chalkboard-26.5.6.jar",
 				"name": "Chalkboard",
 				"side": "both"
 			},
@@ -322,7 +333,7 @@
 				"side": "both"
 			}
 		},
-		"key": "ae1f3b59b8ba8b2479fe0841446a8c05005daa6d00c3d01f04addd70954c2985"
+		"key": "74321d97ed28ce22dd5a46ea9e6474aa5788235a789626f0653356a2ca7e9645"
 	},
 	"combat-toggle": {
 		"checks": {
@@ -516,16 +527,16 @@
 		"files": {
 			"mods/flowers-galore.pw.toml": {
 				"download": {
-					"hash": "44edfe5b1f235ba2bc0823d5264e5e8377365d29135dde5f7a8cb860d87d2fc6bc2a3f65b5eb42aa09b724b352ad7e0f99fc7a90cdb8d751b43d5d97028c3fb7",
+					"hash": "916772ba585d629f20fdffe2746f8532c671a9381c82361c72bf8c453aab144c1eb84b433219df16a14823e5ec72e77e189ec0918d0275dee12ecfa9708a4f20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/5Tp9paFi/versions/VCbRdGoW/flowers-galore-1.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/5Tp9paFi/versions/bKUtwZcv/flowers-galore-1.1.1.jar"
 				},
-				"filename": "flowers-galore-1.1.0.jar",
+				"filename": "flowers-galore-1.1.1.jar",
 				"name": "Flowers Galore!",
 				"side": "both"
 			}
 		},
-		"key": "f1ca7dae9332ae1e52de8a4b046367dac98f06bf508f7ad95f47709c0ff86004"
+		"key": "5983bc9d2ce5103d4120ac732a447fee934d0a9c070a3c0078081d68da71805d"
 	},
 	"grappling-hooke": {
 		"checks": {
