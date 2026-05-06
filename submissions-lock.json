@@ -2,7 +2,7 @@
 	"absurdly-amazing-alloys": {
 		"checks": {
 			"claimed": false,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/absurdly-amazing-alloys.pw.toml": {
@@ -39,26 +39,36 @@
 	"arbitration": {
 		"checks": {
 			"claimed": false,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/arbitration.pw.toml": {
 				"download": {
-					"hash": "1efa160dbdcbddfcea8d755d7b2cc719a074154d2a4d57d075f1389f586f2c8266e03426d368068553a84349dca66efe22615394303e9541d84688757c772f99",
+					"hash": "b16e2fbc7345d68019dc9ccc710ea38eedad08851ae10c1131bdda5aaaa5fe58596aa7605d0fa9d8d6608614f51c4e0abcd940501ee93686b8387a974e9f15f6",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xSJDsTRj/versions/4lwkkb8E/arbitration-1.3.0%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/xSJDsTRj/versions/baOWpy19/arbitration-1.3.4%2Bfabric-26.1.jar"
 				},
-				"filename": "arbitration-1.3.0+fabric-26.1.jar",
+				"filename": "arbitration-1.3.4+fabric-26.1.jar",
 				"name": "Arbitration",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "6a1fd12715e87655a15a42849c023052bb178dc86d8ac081f136437d931f9e36"
+		"key": "55c3790a08b566422d85d68ca954236ad68e28fa80b4ced3d5ca44d6e37238de"
 	},
 	"archery-gimmicks": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/archery-gimmicks.pw.toml": {
@@ -86,7 +96,7 @@
 	},
 	"assorted-appetizers": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -153,8 +163,8 @@
 	},
 	"bakingsoda": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/bakingsoda.pw.toml": {
@@ -178,11 +188,11 @@
 		"files": {
 			"mods/batoru.pw.toml": {
 				"download": {
-					"hash": "a45c19ac1464cd7c10b43f46d81b630415f1ec8ef8c5d87f802ec6e4ee57dd484adea9aa94c7b8afb068724bc2f4a40d8dfdf801a149dc77f1b0bd65788fb9b2",
+					"hash": "49efccbeb6061ec85287ca0f78d93bae6b45e12a9cf109188d64c07aa36e84d002464b17df546d6d88dd90c96e876058df89b7c69dff7c15da588f7b83f06181",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4hav09w1/versions/OVjag8pu/batoru-0.1.jar"
+					"url": "https://cdn.modrinth.com/data/4hav09w1/versions/b7ZJLXWi/batoru-0.2.jar"
 				},
-				"filename": "batoru-0.1.jar",
+				"filename": "batoru-0.2.jar",
 				"name": "Batoru Academia",
 				"side": "both"
 			},
@@ -197,7 +207,7 @@
 				"side": "both"
 			}
 		},
-		"key": "5209a79b0b20241df385eb62885ba5508290b786ab3304726a5d08c05fb79029"
+		"key": "d480a887a7d8d74c12578b6e265fe3748467207c72eb309980e3911a5acf5556"
 	},
 	"berry-fantastic": {
 		"checks": {
@@ -220,7 +230,7 @@
 	},
 	"bloom-festal": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": false
 		},
 		"files": {
@@ -274,16 +284,16 @@
 		"files": {
 			"mods/botanicmagic.pw.toml": {
 				"download": {
-					"hash": "501fd84ef138102c3e62d277f0e1bc3b65a0835dea6a5bc1a03297a6cc195b0a2fbb53f932a53926f492aa246a105303df9124621876bdd28c836c12c50c28ea",
+					"hash": "302c063e7ff3d355ec78b8e3d6f79e40200be8b0ce83868708d73294194bf8ddd23e9cea11f2ac2d11f3d4d2301c88a37c28afe06ab603de453426918a1ee420",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ZToiHgit/versions/kwHwbopi/botanicmagic-1.0.5.jar"
+					"url": "https://cdn.modrinth.com/data/ZToiHgit/versions/zRhG8wlV/botanicmagic-1.0.7.jar"
 				},
-				"filename": "botanicmagic-1.0.5.jar",
+				"filename": "botanicmagic-1.0.7.jar",
 				"name": "Botanic Magic",
 				"side": "both"
 			}
 		},
-		"key": "e552f50acf8ff773c8b24f15b1c62f2894b624340b09c1c7151a5933ff9e6ecd"
+		"key": "f850057c966667986deaa4b6db31122e3db19fc34c5796e2520441460f5db7eb"
 	},
 	"chalkboard": {
 		"checks": {
@@ -374,27 +384,37 @@
 	},
 	"dual-stance": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": false
 		},
 		"files": {
 			"mods/dual-stance.pw.toml": {
 				"download": {
-					"hash": "4e54a5fc3d4bf0099e6f95d65419cd25a6df93a32b3a621ffe67db84dd5db2aaf409beb7fe644d93a75cc113371b8360080a3509db3833af2c35b22536d2563a",
+					"hash": "b9a43e463c9dc30f7a661741d59434531aca5b7c72c961146617bffa5963574fa022d366411937ef88a35160584e82f1c2b506d596f85808d0f9b0196a665cab",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/z6Esg6rK/versions/6O7r8jOl/dual-stance-0.4.0.jar"
+					"url": "https://cdn.modrinth.com/data/z6Esg6rK/versions/zxojGU53/dual-stance-0.4.2.jar"
 				},
-				"filename": "dual-stance-0.4.0.jar",
+				"filename": "dual-stance-0.4.2.jar",
 				"name": "Dual Stance",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "b6cec2146658e14c184b233b793ee7e4ae65bc073f10287a063bc52f94bf8e6e"
+		"key": "107a07843ad72baf365f037d37dc3a9591285fb666866d121006375717d148ce"
 	},
 	"enamel": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/enamel.pw.toml": {
@@ -496,16 +516,16 @@
 		"files": {
 			"mods/flowers-galore.pw.toml": {
 				"download": {
-					"hash": "7e9c56a4b908ad52c85b1b47bd9058f7129e7ca2419dcbecf3fcf3e02ef4cfddaedf734489576e340b64d87a0c47ca2bdf8a5d212286ec253bfce8334176aea0",
+					"hash": "44edfe5b1f235ba2bc0823d5264e5e8377365d29135dde5f7a8cb860d87d2fc6bc2a3f65b5eb42aa09b724b352ad7e0f99fc7a90cdb8d751b43d5d97028c3fb7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/5Tp9paFi/versions/kAyMdIqA/flowers-galore-1.0.2.jar"
+					"url": "https://cdn.modrinth.com/data/5Tp9paFi/versions/VCbRdGoW/flowers-galore-1.1.0.jar"
 				},
-				"filename": "flowers-galore-1.0.2.jar",
+				"filename": "flowers-galore-1.1.0.jar",
 				"name": "Flowers Galore!",
 				"side": "both"
 			}
 		},
-		"key": "93f4014d4efdb837d4e5c55756537926d973dd1f1d1149f4642832d91e98a229"
+		"key": "f1ca7dae9332ae1e52de8a4b046367dac98f06bf508f7ad95f47709c0ff86004"
 	},
 	"grappling-hooke": {
 		"checks": {
@@ -568,7 +588,7 @@
 	"hotdognalds": {
 		"checks": {
 			"claimed": false,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/hotdognalds.pw.toml": {
@@ -586,8 +606,8 @@
 	},
 	"ikhemusek": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/ikhemusek.pw.toml": {
@@ -692,7 +712,7 @@
 	},
 	"kurasu": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": false
 		},
 		"files": {
@@ -798,7 +818,7 @@
 	},
 	"lovely-bites": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": false
 		},
 		"files": {
@@ -903,8 +923,8 @@
 	},
 	"mugann": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/mugann.pw.toml": {
@@ -970,8 +990,8 @@
 	},
 	"one-button-doorbells": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/one-button-doorbells.pw.toml": {
@@ -989,8 +1009,8 @@
 	},
 	"peace-lily": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/peace-lily.pw.toml": {
@@ -1143,7 +1163,7 @@
 	},
 	"renmi": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": false
 		},
 		"files": {
@@ -1191,7 +1211,7 @@
 	},
 	"slime-time": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -1207,20 +1227,20 @@
 			},
 			"mods/slime-time.pw.toml": {
 				"download": {
-					"hash": "94573c64b280fa5a0e89c15bdfafe9f278fa47180c0427cc7fe2f8ba8d33f01119834e539a546693c882e2931058b271222610244b0c7a114c7432c0a95b7f52",
+					"hash": "34d9521cd5591c204cbb5ec8519c20ab7eb79bca2d069f890e62c3b1216d77b6d4040fd47e5812739c909c48460bb989d33f39cd76ae231b5b9ab4bc35cef1e4",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/RRsJmoGM/versions/J0GgLJ3z/slime-time-1.1.1%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/RRsJmoGM/versions/hXqCrNGK/slime-time-1.1.2%2B26.1.2.jar"
 				},
-				"filename": "slime-time-1.1.1+26.1.2.jar",
+				"filename": "slime-time-1.1.2+26.1.2.jar",
 				"name": "Slime Time",
 				"side": "both"
 			}
 		},
-		"key": "6e69df752795804ecbdc06e797696b6d7c959ac62406d0efb7f44ec9de335f6a"
+		"key": "a04f120455846dbcb57799e137b43cc7800440727d99e6d2bb407138bb9fdead"
 	},
 	"starbond": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": false
 		},
 		"files": {
@@ -1246,16 +1266,16 @@
 			},
 			"mods/starbond.pw.toml": {
 				"download": {
-					"hash": "6468d4ef9aa48e8d6d71dd7a24f4c0a769ffb2438b4b802b9ae9042314264b16b079ae9687e18a46d9d5706e102decafa1cf62a8f611b13f2990b256a907be80",
+					"hash": "18ed47f0ed02d836be220faff66867c064d30bbc10af5f84b717e5ac4256f8c8f0a389fbdb218cbb0d21869776d8ceb2068d9b20a3413cdc0de4a63b47340749",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ZBWgziRM/versions/evpHAKZR/starbond-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/ZBWgziRM/versions/ydCRSEhB/starbond-1.0.2.jar"
 				},
-				"filename": "starbond-1.0.0.jar",
+				"filename": "starbond-1.0.2.jar",
 				"name": "Starbond",
 				"side": "both"
 			}
 		},
-		"key": "d2874b93aacb3414d81421e192ed25a8ffb6b5490a7e9c9a6bb623889f68c8f0"
+		"key": "8088d355bf04341517324fe5bd0bc4a7f2dc69306d3af5e254ecc5898b324982"
 	},
 	"street-art": {
 		"checks": {
@@ -1275,11 +1295,11 @@
 			},
 			"mods/street-art.pw.toml": {
 				"download": {
-					"hash": "88d6d913b639ab056309caa68b601a401ab8b3901eb06e964414d337fdf8eec50dbfe36b62d364c54125cd8b99d24e55c8029329282ee2bdf87775804c939293",
+					"hash": "3fdeee0d42268746fb3cc35e30d69bdd7c0f752c942349685923044ed1266dbc8256871f49384a81196f10ca9d1dace92e9438d367afe33bbd083e1eadc500ed",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/g8k0kPid/street_art-1.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/TuN3Wgdp/street_art-1.0.2.jar"
 				},
-				"filename": "street_art-1.0.1.jar",
+				"filename": "street_art-1.0.2.jar",
 				"name": "Street Art",
 				"side": "both"
 			},
@@ -1294,7 +1314,7 @@
 				"side": "both"
 			}
 		},
-		"key": "a50c542b9f7fa347b6a5c4ca20912669d3d6f5fd21edfaf83f5375b0b65623f1"
+		"key": "8b58eb84a6c2feeede8a3d9056cca1b0492798aa24ee236f45146a06cec42b8c"
 	},
 	"syncope-synecdoche": {
 		"checks": {
@@ -1356,7 +1376,7 @@
 	},
 	"voidstain-hypoidol": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": false
 		},
 		"files": {
