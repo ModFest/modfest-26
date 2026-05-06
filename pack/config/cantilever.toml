@@ -38,6 +38,7 @@ useMinecraftNicknames = true
 	"" = "<:ananas_none:1363033133917802577>"
 	"" = "<:modfest_waaaaa:1007787960864886915>"
 	"" = "<:iapprove:1008151991786164245>"
+	"" = "<:devious:1495393810535157912>"
 	"-" = "‒"
 # A map of text to text replacements from Discord -> MC; useful for Styled Chat Emoji
 [d2mReplacements]
@@ -56,3 +57,4 @@ useMinecraftNicknames = true
 	":ananas_none:" = "<font 'modfest:emoji'></font>"
 	":modfest_waaaaa:" = "<font 'modfest:emoji'></font>"
 	":iapprove:" = "<font 'modfest:emoji'></font>"
+	":devious:" = "<font 'modfest:emoji'></font>"
