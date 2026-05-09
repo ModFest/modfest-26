@@ -1345,16 +1345,16 @@
 		"files": {
 			"mods/syncope-synecdoche.pw.toml": {
 				"download": {
-					"hash": "fba22dc6399fa6a1112c78b3ad31a502e2376bc123a950bad3dbb6949dbb607186cc757eb2fbdb45cba8422c796c05a91b3dd29bc151306b2354c73b398f8385",
+					"hash": "57f605fd29ee7a34957f3e1bcb9f1488a1be7c3200cefaf2ca4669084a2d19bb9fa8e6bc16165043bbfc1ad757421e568952f3978f6002a4d8ae5089f78c9bc6",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/3q979Cd3/versions/Mb7N0Tie/syncope-synecdoche-0.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/3q979Cd3/versions/3VGXAfwy/syncope-synecdoche-0.1.2.jar"
 				},
-				"filename": "syncope-synecdoche-0.1.1.jar",
+				"filename": "syncope-synecdoche-0.1.2.jar",
 				"name": "Syncope Synecdoche",
 				"side": "both"
 			}
 		},
-		"key": "fe5afe30059d3a424e933c888aa8ec475ca22ee4a5f782dc54f975755f3dd94d"
+		"key": "a5f2c7f7647007decd7e2502fc5433c0b52cf93767f79d41c3a92aeba9df7efb"
 	},
 	"under-the-cherry-trees": {
 		"checks": {
