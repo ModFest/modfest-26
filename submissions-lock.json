@@ -276,16 +276,16 @@
 		"files": {
 			"mods/booyah.pw.toml": {
 				"download": {
-					"hash": "02f9fa7e562d3dd7772f54c7bb4dc6f4b999e5ac1358adaded33ab66ef2c310116dec29ac8903a1ddd493467735c63a4ad961ca605d1416ab43e252315f77a32",
+					"hash": "2a8449d50cd9b3f41a97365d9607108f77f36ecb421fa7a07d962cfd93237f91d640bc42b57589c3ea79ffe84b6285b8f96931a3fb1a4a76cab0f817f7db4834",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/O57Zh8qx/booyah-0.0.3.jar"
+					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/98rpAxVt/booyah-1.0.0.jar"
 				},
-				"filename": "booyah-0.0.3.jar",
+				"filename": "booyah-1.0.0.jar",
 				"name": "Booyah!",
 				"side": "both"
 			}
 		},
-		"key": "081a923f1cfe25ddee140524d25e34451c533216a26dd074653e49790604e2a4"
+		"key": "1e14668fa1e1a89ec63ddca63782e113bc9e12de25e3c8d376e5ab04e6aa5977"
 	},
 	"botanicmagic": {
 		"checks": {
@@ -463,8 +463,8 @@
 	},
 	"ensemble-mod": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/ensemble-mod.pw.toml": {
@@ -498,11 +498,11 @@
 		"files": {
 			"mods/etaerio-eaterie.pw.toml": {
 				"download": {
-					"hash": "11b60fd15ab81aa7a05404623a2d9b127b95b80f64df36e447e8b71867300844b45605480312519824cf7d8b471af7a46c1c8330dd6056f8156cd555a62b791e",
+					"hash": "d867926520423f1632168a7623460be1395b2c7a1e018c359036dc23ac884628f9696f75565a8345b06bf704d04d123963ff4553d02c6e2451af81be785d1ce0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Mz1FAA72/versions/JgharqWg/etaerio-eaterie-1.0.2.jar"
+					"url": "https://cdn.modrinth.com/data/Mz1FAA72/versions/uNSVT6WD/etaerio-eaterie-1.0.3.jar"
 				},
-				"filename": "etaerio-eaterie-1.0.2.jar",
+				"filename": "etaerio-eaterie-1.0.3.jar",
 				"name": "Etaerio Eaterie",
 				"side": "both"
 			},
@@ -517,7 +517,7 @@
 				"side": "both"
 			}
 		},
-		"key": "00b216c744a0f836d7d394ee3048663aba2fe4bfcf8829281de173d4628065bb"
+		"key": "2eba48c84e3579c46509bd9e3db5ea5c79c3fa9f18454bc733c150ea48a36cf6"
 	},
 	"flowers-galore": {
 		"checks": {
@@ -1316,11 +1316,11 @@
 			},
 			"mods/street-art.pw.toml": {
 				"download": {
-					"hash": "39cfb65bc01473a30d3170f5ca11eed5952935b60aa9c73e01e78e94071949db28368e88e20f2ab8f0e965d9970249c43d5e0eb6f1e4d6b812ba4dbce35b8cb5",
+					"hash": "7c8a03e279e367b2af943b948534558f72502ad51420575e5a01adc650b70af8af083726e176e83f19408012fa27a9553efd523c4f142361f8c8a25a4be7f06a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/PSchH9Ny/street_art-1.0.6.jar"
+					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/fOsJ33LA/street_art-1.0.7.jar"
 				},
-				"filename": "street_art-1.0.6.jar",
+				"filename": "street_art-1.0.7.jar",
 				"name": "Street Art",
 				"side": "both"
 			},
@@ -1335,11 +1335,11 @@
 				"side": "both"
 			}
 		},
-		"key": "c39c0ca8f15dfde90a670654fa607c51097062e1a76374e14a786a7ccfa45442"
+		"key": "00423095dbc38c01d387b2ebfd519a7165ff3a14064b60997a7ec7b6e4707234"
 	},
 	"syncope-synecdoche": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
