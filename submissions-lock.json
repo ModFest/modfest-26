@@ -681,16 +681,16 @@
 		"files": {
 			"mods/kawaii.pw.toml": {
 				"download": {
-					"hash": "7e3701cf4a5f8a44e1e4a2d5df4ecbec73ec7bd68203d572b2b6d0e2cf2f14cb9315279a4680afdeeeeb0aae804ba741d493cecce0ff388dfce31f7adb7a05ad",
+					"hash": "93323ba52b8d836ab512f7818f40b42a705c924a5ebfefa8fc42417386c92ec53a4d867a1b2f6ecd6f590c2f362d2fa16bd58a8356540435896fdd25fd8ce5de",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/J7GwounQ/versions/8w0m7KFo/kawaii-1.2.1.jar"
+					"url": "https://cdn.modrinth.com/data/J7GwounQ/versions/wCFPKb6a/kawaii4200-1.2.0.jar"
 				},
-				"filename": "kawaii-1.2.1.jar",
+				"filename": "kawaii4200-1.2.0.jar",
 				"name": "Kawaii",
 				"side": "both"
 			}
 		},
-		"key": "0f8dee2ce6d77b492792c51e3b6adfb3738522feb80d220468a1dc1782bb80a5"
+		"key": "26c77a5b40da1adb5c6d5b9da0d157714b235f79f510d3f0f493c6390552de84"
 	},
 	"kibss": {
 		"checks": {
@@ -915,22 +915,22 @@
 	},
 	"monday-night-mining": {
 		"checks": {
-			"claimed": true,
+			"claimed": false,
 			"tested": true
 		},
 		"files": {
 			"mods/monday-night-mining.pw.toml": {
 				"download": {
-					"hash": "09bbb5096cd872e9a141c250149229cd2848766932ba1bdcaf5997ebaabdd9785abe292537ccafb835a2d65871a92e3e0fc94cefebe3ea3c5d6a14915c4fd67a",
+					"hash": "841728ea3871bd7a88aaf495c0807a60b8eca2ad2a70132a907b0ef22cd04bf8b13a5a991074f99d5921c3ca23e28ccbc114a6537a8892fd48dde6cd6d6570eb",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/GZIAhmWQ/versions/qW45LGra/monimi-1.1.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/GZIAhmWQ/versions/DdB1bJvQ/monimi-1.0.0%2B26.1.2.jar"
 				},
-				"filename": "monimi-1.1.0+26.1.2.jar",
+				"filename": "monimi-1.0.0+26.1.2.jar",
 				"name": "Monday Night Minin'",
 				"side": "both"
 			}
 		},
-		"key": "b30f46737f3ee8a8175fbf4f2dfa872d8b348f3dba22b0e043a042ab3fbd51db"
+		"key": "5f0457b0185d07fbffed9fb30557a2ae131e6e094acdd3a2932b81d6841fb45d"
 	},
 	"mugann": {
 		"checks": {
