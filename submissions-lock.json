@@ -7,30 +7,30 @@
 		"files": {
 			"mods/absurdly-amazing-alloys.pw.toml": {
 				"download": {
-					"hash": "1a95820d8f828e4df04761fbad9a98d9ab2e279e15ea0b2eb0a854263bd5fec34670a50d1dc1872e37eb4c9ba9c3a78122faaa2dd2678e68948a475f288a225a",
+					"hash": "fec83f52c523f7d9ed22d612c803ecf9c8d23b32010dcc9e3b9d6be5e993260e6c0f57e8326bbc8aa8a7e1862fb8fb17e055ca41b6d37b25b522664dcc645731",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/XzFtgXMa/versions/M4tvihD6/absurdly-amazing-alloys-0.1.3%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/XzFtgXMa/versions/dOgl2sFj/absurdly-amazing-alloys-0.1.4.1%2Bfabric-26.1.jar"
 				},
-				"filename": "absurdly-amazing-alloys-0.1.3+fabric-26.1.jar",
+				"filename": "absurdly-amazing-alloys-0.1.4.1+fabric-26.1.jar",
 				"name": "Absurdly Amazing Alloys",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "6a576d8975b705937c035e9b290dd0138fedd4ab106a54e238f37e343916dec96dbaeeef66578d5293be83e10c9d7a5b8be3aef93ae384d2b8fe7e52cdee5df2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/q87Wssd1/fabric-api-0.148.2%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.148.2+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "5eee9db819ff0586481bfa626c50751a64f496f10a006cf6c821b1cfc26e5029"
+		"key": "441d5688ab71d331eea41161512a10f7f9bc0b396e09e1643ffea9b3672732b5"
 	},
 	"advanced-classroom-furniture": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -372,11 +372,11 @@
 		"files": {
 			"mods/creeper-crush.pw.toml": {
 				"download": {
-					"hash": "e8bbd2d4efb7e235076fbf8f40e39ff97a803e4f7f8627ab13dbff99ad8c5e60d32e9499d053f5aac0ef680c6bb98470d5be6919e34d4c1dfb89b05d7d79f44f",
+					"hash": "469d618343b5f24b759e57a60d425a72e2a7dca3a607b71fc3993f8d990dacfaec67a8b6a7b47b95d641938a8ed2cf6f0949ae59d002b4099420daa04ec1e9a7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6EQ8D192/versions/tTJd29pF/creeper_crush-fabric-0.1.6-26.1.1-sgd.jar"
+					"url": "https://cdn.modrinth.com/data/6EQ8D192/versions/hMH3ewCi/creeper_crush-fabric-0.1.8-26.1.1-sgd.jar"
 				},
-				"filename": "creeper_crush-fabric-0.1.6-26.1.1-sgd.jar",
+				"filename": "creeper_crush-fabric-0.1.8-26.1.1-sgd.jar",
 				"name": "I Have a Crush on a Creeper?!?",
 				"side": "both"
 			},
@@ -401,7 +401,7 @@
 				"side": "both"
 			}
 		},
-		"key": "e297cef727201ed20dc972703ec5c889fffce1d72f585757e34f02baf9ec95dd"
+		"key": "edc038e8566f39e0054f14bc8a428d30e36d89ff84c70f02e4950cd3ff40edb0"
 	},
 	"dual-stance": {
 		"checks": {
@@ -922,16 +922,16 @@
 			},
 			"mods/meowdemic.pw.toml": {
 				"download": {
-					"hash": "7b18e845a4852177a29c61197c5c48f3bc73f4729406a7dabf90353310323d665bbfb018a9a980640b0998d608ca4ca65bf293c7056931b412db452d9200c2c4",
+					"hash": "92b54d6a59ef3fda7b0fdde6c1f37cd2f8edb7c8055108fe887d41f39804b3116c7dbf25ac5f773c7da53b8b3eed201575a1447becc886478ad8bd0ceb9b6fcc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/fU3ZcDaR/meowdemic-1.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/i06ktScT/meowdemic-1.1.3.jar"
 				},
-				"filename": "meowdemic-1.1.0.jar",
+				"filename": "meowdemic-1.1.3.jar",
 				"name": "Meowdemic",
 				"side": "both"
 			}
 		},
-		"key": "16a211e92284644651948dd6e1e4ec089135e90b09f8f8c659fdb499003eadf1"
+		"key": "b5f5c0bfa826aade570905a77ea92c6e095b0c009137993661dd9f9a54832f2c"
 	},
 	"monday-night-mining": {
 		"checks": {
@@ -1200,20 +1200,20 @@
 		"files": {
 			"mods/renmi.pw.toml": {
 				"download": {
-					"hash": "b4c86e2bc73694ffd94da5b3982362030ae25928dc9f2338cb7458f36adc8e75067600bed916a82855c5a0471567b2994d833595b521c42df0a10ec10a75a2e8",
+					"hash": "c00e0a2125821ae57de4d67302963e3a7e6ff6195c150ecf81b33e2e64ad29056c0c368cfa7b838f6cfc52408b4fa4aa1ee0714ca68350a1d22e7e8c5aab57d8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/MKxSLgWp/renmi-1.0.6-beta%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/yH5nKNDL/renmi-1.0.7-beta%2B26.1.2.jar"
 				},
-				"filename": "renmi-1.0.6-beta+26.1.2.jar",
+				"filename": "renmi-1.0.7-beta+26.1.2.jar",
 				"name": "Ren'mi",
 				"side": "both"
 			}
 		},
-		"key": "e4898235e36c937b9864a9a6b0d2cbd8a67c5ca354b6b860a2f8b44be5dbb38a"
+		"key": "1093763d4461158c52703219023bbb5b198bcc8c5f68055855ac1522938c986b"
 	},
 	"scriboodle": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -1272,7 +1272,7 @@
 	"starbond": {
 		"checks": {
 			"claimed": true,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/cardinal-components-api.pw.toml": {
@@ -1326,11 +1326,11 @@
 			},
 			"mods/street-art.pw.toml": {
 				"download": {
-					"hash": "7455b901b52454e48b39758ceddf29605dfb6f384170addf61fe60fc1426d96c0b542110e2778331d97f834f13fff45dbd204dd948cdd9a291c8edbce881cb69",
+					"hash": "00ea24e19fcf9f2401caff6bbe18b6b1598ad1d32f61e70db199a072cdb24a68934eea02586d485e001fabc8292f22e8f2817211c75d90e60a4b487bd840d6ad",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/Y3LLvD2M/street_art-1.0.8.jar"
+					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/Z9TbNcdm/street_art-1.0.9.jar"
 				},
-				"filename": "street_art-1.0.8.jar",
+				"filename": "street_art-1.0.9.jar",
 				"name": "Street Art",
 				"side": "both"
 			},
@@ -1345,7 +1345,7 @@
 				"side": "both"
 			}
 		},
-		"key": "28a035fc0cc4dd802ace26fb7349e3b6e0334b9c375018de9189cb32666c7025"
+		"key": "58b3d41d61e7e9b975696cc18e463f1c4b62ec9b25bb58398085e8dc45daca25"
 	},
 	"syncope-synecdoche": {
 		"checks": {
