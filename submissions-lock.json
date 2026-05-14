@@ -94,26 +94,26 @@
 		"files": {
 			"mods/archery-gimmicks.pw.toml": {
 				"download": {
-					"hash": "87dadaf8abfda2cda1b0871c771febc6dfe89a905bb9e733455c70dab859aaeb1607559c4ec33849ceea74a6ccdf8f02c9f23fd3fa74dae405b37eb79a73b8a2",
+					"hash": "3b6bfe7946b88dc2782c55acbf60346fdf4715c44942d4bf7986ea3a45c605d99cd115cefe99b3154a23338b084ee87a603c289069a4e20af50462f5190f67db",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mhMyROQo/versions/WZo6lNOP/archery-gimmicks-1.0.1%2B26.1.jar"
+					"url": "https://cdn.modrinth.com/data/mhMyROQo/versions/TbKrms1O/archery-gimmicks-1.0.2%2B26.1.jar"
 				},
-				"filename": "archery-gimmicks-1.0.1+26.1.jar",
+				"filename": "archery-gimmicks-1.0.2+26.1.jar",
 				"name": "Archery Gimmicks",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "6a576d8975b705937c035e9b290dd0138fedd4ab106a54e238f37e343916dec96dbaeeef66578d5293be83e10c9d7a5b8be3aef93ae384d2b8fe7e52cdee5df2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/q87Wssd1/fabric-api-0.148.2%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.148.2+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "8d1d94739365dec327179f01f92973b109c0246d43f7a961486de325467588f0"
+		"key": "3cab03ab866d8cd6fb3a1f92d0024dd2d0c6383cc4f92e339491f3340495f038"
 	},
 	"assorted-appetizers": {
 		"checks": {
