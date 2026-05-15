@@ -142,16 +142,16 @@
 		"files": {
 			"mods/astraglossa.pw.toml": {
 				"download": {
-					"hash": "844b625fa9356c80c7d2021b7da30cdd0c028eeef37a8637329a63ae0c9e16246bc7dc5cd3b9b298b2cc032c679c203cf17725de3d7719dc1dde838731a9a521",
+					"hash": "9928b884a46162c5f93a5df0aa4d51f268afa72d8d1ec381c333e5f4d54b594a38b2d316b922738ea646f519fee9b768c63d085d7a649f3f370dd32877a4fdfb",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1yOi1X5j/versions/mly1WBMC/astraglossa-0.4.5%2Btrunk.jar"
+					"url": "https://cdn.modrinth.com/data/1yOi1X5j/versions/3LtMVwGx/astraglossa-0.4.6%2Btrunk.jar"
 				},
-				"filename": "astraglossa-0.4.5+trunk.jar",
+				"filename": "astraglossa-0.4.6+trunk.jar",
 				"name": "astraglossa",
 				"side": "both"
 			}
 		},
-		"key": "015b23436537731f61c35cabe50aa07f35864cbe4206053189a7e1b648fedca7"
+		"key": "f347dcc21cf35b93c2e99865ac69b23f7beae240e0c9720eadf3fa9bd62baa6a"
 	},
 	"attire-craft": {
 		"checks": {
@@ -820,8 +820,8 @@
 	},
 	"lockkey": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/lockkey.pw.toml": {
@@ -1403,15 +1403,15 @@
 		"files": {
 			"mods/voidstain-hypoidol.pw.toml": {
 				"download": {
-					"hash": "1b4646e03ba376be8fb25b57cdaf6bb609fe65104a3e931de661dd6182c12b9d9deb431e2873d773c30653631d74ea843f39c2ce92bd922eb803a48bafb2a83d",
+					"hash": "2d844b8a9218769d777cf2acadf1f03e872c35894b9661059f78c34765c4ad1d51d31cf9d23d7955611bc54b9badbf9954c158d54fb4f1523d5dc3a2fc7a1cb5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xVavkZzR/versions/tFI38ttH/voidstain_hypoidol-0.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/xVavkZzR/versions/nYvm6lTK/voidstain_hypoidol-0.1.1.1.jar"
 				},
-				"filename": "voidstain_hypoidol-0.1.1.jar",
+				"filename": "voidstain_hypoidol-0.1.1.1.jar",
 				"name": "Voidstain Hypoidol",
 				"side": "both"
 			}
 		},
-		"key": "e8399b8d8e7ebfe0074275321076ad63533cbaecac441939edad0b206b3d0d82"
+		"key": "9c0c60f73a832ee3e3fe7e730793011f82c65cb64cf260953fe94483b178ff2b"
 	}
 }
