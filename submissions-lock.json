@@ -1219,26 +1219,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "6a576d8975b705937c035e9b290dd0138fedd4ab106a54e238f37e343916dec96dbaeeef66578d5293be83e10c9d7a5b8be3aef93ae384d2b8fe7e52cdee5df2",
+					"hash": "c7589aa4deeaa6dbefc13247eb5e0d4e257c152ef039937f54d6ee28282d3c84ccc96483d9c3950286fed6e3dcc546709898c8a446ab143d1663bc7d49649c54",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/q87Wssd1/fabric-api-0.148.2%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Sy2Bq7Xc/fabric-api-0.149.0%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.2+26.1.2.jar",
+				"filename": "fabric-api-0.149.0+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/scriboodle.pw.toml": {
 				"download": {
-					"hash": "9ddc235b74e3726630919c82eb024bb2182e845d121a9d2e1bd0fef0c107c459bd51a72956792b659665155f9f659eba46e98c7c936a49f620a1e14b37c1e046",
+					"hash": "e2ae8de76f4c864f5432568b0af30074dc7ce823738a29e991c6623adade69dd9b81b97c15113df180fa190126fd99290a267e2f4df92dd45418b924705f0cbe",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1KTbgBgQ/versions/3N2drgCO/scriboodle-0.2.6.jar"
+					"url": "https://cdn.modrinth.com/data/1KTbgBgQ/versions/1mh8HUBI/scriboodle-0.2.7.jar"
 				},
-				"filename": "scriboodle-0.2.6.jar",
+				"filename": "scriboodle-0.2.7.jar",
 				"name": "Scriboodle",
 				"side": "both"
 			}
 		},
-		"key": "6bf510521bc655782d58d6864ef8f14777177a6b6160296e9f21b278ce7480ab"
+		"key": "7edda5902cef86d19c46f84cbc1aa20f4095e58271d5db2475f0439a023d5ba3"
 	},
 	"slime-time": {
 		"checks": {
