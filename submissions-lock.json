@@ -1229,16 +1229,16 @@
 			},
 			"mods/scriboodle.pw.toml": {
 				"download": {
-					"hash": "e2ae8de76f4c864f5432568b0af30074dc7ce823738a29e991c6623adade69dd9b81b97c15113df180fa190126fd99290a267e2f4df92dd45418b924705f0cbe",
+					"hash": "e028f70d6028ce19e34fa659e91fefbf36b198d9fdd7bfd4b6055b3c61000820d4635145c950cde6d87d5d683676b10ca7b5be93c1affce9ccc0cc13d9ca3c00",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1KTbgBgQ/versions/1mh8HUBI/scriboodle-0.2.7.jar"
+					"url": "https://cdn.modrinth.com/data/1KTbgBgQ/versions/mdP2aVfN/scriboodle-0.2.8.jar"
 				},
-				"filename": "scriboodle-0.2.7.jar",
+				"filename": "scriboodle-0.2.8.jar",
 				"name": "Scriboodle",
 				"side": "both"
 			}
 		},
-		"key": "7edda5902cef86d19c46f84cbc1aa20f4095e58271d5db2475f0439a023d5ba3"
+		"key": "f1023fcb4b2c7ba37bf52f1b96a64831a696b3a81e196f2ad97f45a08f957825"
 	},
 	"slime-time": {
 		"checks": {
