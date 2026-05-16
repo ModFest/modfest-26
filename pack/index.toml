@@ -7,6 +7,9 @@ file = ".pteroignore"
 file = "config/ballotbox.toml"
 
 [[files]]
+file = "config/barricade.jsonc"
+
+[[files]]
 file = "config/bobby-block-entity-allowlist.conf"
 
 [[files]]
@@ -138,6 +141,9 @@ file = "mods/barricade.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bento_util_fix-1.0.0.jar"
+
+[[files]]
 file = "mods/better-log4j-config.pw.toml"
 metafile = true
 
@@ -179,6 +185,9 @@ metafile = true
 [[files]]
 file = "mods/fabrictailor.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/fireblanket-0.9.2+fabric-26.1.jar"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
@@ -592,6 +601,51 @@ file = "resources/common/required/mf_shards/data/scattered_shards/shard_type/typ
 file = "resources/common/required/mf_shards/pack.mcmeta"
 
 [[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/beneath_the_virtual_sky.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/rot_for_clout.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/slasher.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/the_89s_momentum.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/beneath_the_virtual_sky.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/rot_for_clout.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/slasher.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/the_89s_momentum.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/beneath_the_virtual_sky.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/rot_for_clout.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/slasher.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/the_89s_momentum.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/pack.mcmeta"
+
+[[files]]
+file = "resources/common/required/monimi_charts/pack.png"
+
+[[files]]
 file = "resources/datapack/required/free_build/data/free_build/default_components/free_buildables.json"
 
 [[files]]
@@ -731,6 +785,9 @@ file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/b
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/demi_heart.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/devious.png"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/femboy_heart.png"
