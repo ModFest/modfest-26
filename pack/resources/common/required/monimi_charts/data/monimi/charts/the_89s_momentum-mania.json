@@ -6,6 +6,7 @@
 		"cover": "monimi:textures/cover/the_89s_momentum.png",
 		"length": 139,
 		"bpm": 128,
+		"volume": 0.4,
 		"streamUnsafe": true
 	},
 	"charter": "xSilphy",

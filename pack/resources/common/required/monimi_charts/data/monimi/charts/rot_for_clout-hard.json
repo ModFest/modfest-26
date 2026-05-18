@@ -6,6 +6,7 @@
 		"cover": "monimi:textures/cover/rot_for_clout.png",
 		"length": 150,
 		"bpm": 172,
+		"volume": 0.5,
 		"explicit": true
 	},
 	"charter": "Blex",
