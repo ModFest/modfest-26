@@ -40,9 +40,6 @@ file = "config/default-hotkeys.json"
 file = "config/emi.css"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-
-[[files]]
 file = "config/fireblanket/fireblanket.txt"
 
 [[files]]
