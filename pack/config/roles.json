@@ -55,9 +55,7 @@
 				"setblock.*": "allow",
 				"summon.*": "allow",
 				"rregion.*": "allow",
-				"force_faint.*": "allow",
-				"dream_layer.*": "allow",
-				"music_stage.*": "allow"
+				"syncope-synecdoche.*": "allow"
 			}
 		}
 	},
@@ -72,9 +70,7 @@
 			"commands": {
 				"help": "allow",
 				"polymer.*": "deny",
-				"force_faint.*": "deny",
-				"dream_layer.*": "deny",
-				"music_stage.*": "deny"
+				"syncope-synecdoche.*": "deny"
 			}
 		}
 	}
