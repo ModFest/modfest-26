@@ -1,13 +1,14 @@
 name = "Polysit"
-filename = "polysit-0.9.10+mc.26.1.2.jar"
-side = "both"
+ilename = "polysit-0.9.10.1+mc.26.1.2.jar"
+side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/G9eJHDO2/versions/huUaK6XD/polysit-0.9.10%2Bmc.26.1.2.jar"
+url = "https://cdn.modrinth.com/data/G9eJHDO2/versions/5L0V6zal/polysit-0.9.10.1%2Bmc.26.1.2.jar"
 hash-format = "sha512"
-hash = "ef2be532ad4c9cf6fd439ea48cf4098d846d7053f10aade8d535a39425ed03a86bfa6b150536b26b452fc71a6eb0ef54b2cbd83d1b0bd4c40444810d43653c04"
+hash = "72076d38662928a5088c95e31e66051932382e0c1fbf129517f1d71a626fa7432736dcee9287f440c94dcbbc51ef8de25392324c5f6056a3908908ba845927ce"
 
 [update]
 [update.modrinth]
 mod-id = "G9eJHDO2"
-version = "huUaK6XD"
+version = "5L0V6zal"
+
