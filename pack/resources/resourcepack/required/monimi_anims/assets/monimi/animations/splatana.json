@@ -331,10 +331,8 @@
 			}
 		},
 		"up": {
-			"loop": true,
 			"animation_length": 0.7813,
 			"start_delay": 0,
-			"loop_delay": 0,
 			"bones": {
 				"head": {
 					"rotation": {
@@ -696,10 +694,8 @@
 			}
 		},
 		"down": {
-			"loop": true,
 			"animation_length": 0.7813,
 			"start_delay": 0,
-			"loop_delay": 0,
 			"bones": {
 				"head": {
 					"rotation": {
@@ -1069,10 +1065,8 @@
 			}
 		},
 		"back": {
-			"loop": true,
 			"animation_length": 0.7813,
 			"start_delay": 0,
-			"loop_delay": 0,
 			"bones": {
 				"root": {
 					"rotation": {
@@ -1394,10 +1388,8 @@
 			}
 		},
 		"front": {
-			"loop": true,
 			"animation_length": 0.6719,
 			"start_delay": 0,
-			"loop_delay": 0,
 			"bones": {
 				"root": {
 					"rotation": {
