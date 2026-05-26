@@ -155,8 +155,8 @@
 	},
 	"attire-craft": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/attire-craft.pw.toml": {
@@ -286,11 +286,11 @@
 		"files": {
 			"mods/booyah.pw.toml": {
 				"download": {
-					"hash": "5b0dbae3c33ebeea56e30b4153d4465784a1b89c3a099116cfd8b58fd3398d1fab33142a340a89ef91cce96c600df9cbac63aa04b5dcf4652b451c427e2e1f7c",
+					"hash": "3ac58b317dbe282cb6c5e53d2d6e573e6d3d290405e28c74308726de56b1be9660134e9a2bfe8a9ca1eaf51515f0e5dc6352c5ade6110b795970307b4ef9d6c2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/QbqtYXbk/booyah-1.0.3.jar"
+					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/ccpPjy4h/booyah-1.0.4.jar"
 				},
-				"filename": "booyah-1.0.3.jar",
+				"filename": "booyah-1.0.4.jar",
 				"name": "Booyah!",
 				"side": "both"
 			},
@@ -305,7 +305,7 @@
 				"side": "both"
 			}
 		},
-		"key": "7fecdcf58c2e7d5f8935608856392f2a710880bce95c003a11d7c4f5453337c6"
+		"key": "6dc2e65749d6ef362024c149bc65237614e56b6d1decc58465df616fe93af07d"
 	},
 	"botanicmagic": {
 		"checks": {
@@ -357,7 +357,7 @@
 	},
 	"combat-toggle": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -382,11 +382,11 @@
 		"files": {
 			"mods/creeper-crush.pw.toml": {
 				"download": {
-					"hash": "8a03c41a1a66debb147582f0970ab0905f6deca5acccde97ba5304c7a19439f22c9557c1bad98765f0e180558aa055088cabae159cf1a264dbac042f9bec4e72",
+					"hash": "d7d76c75b4a42cf4080cad4a08d6da9003458997e400c4ba79e69ae81ef0fd87058564b086e846356e9abcf695aa9d57a6448123053b754f3d7c01d6009efc1f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6EQ8D192/versions/Ucyg7JzU/creeper_crush-fabric-0.1.9-26.1.1-sgd.jar"
+					"url": "https://cdn.modrinth.com/data/6EQ8D192/versions/IavjMmq6/creeper_crush-fabric-0.1.10-26.1.1-sgd.jar"
 				},
-				"filename": "creeper_crush-fabric-0.1.9-26.1.1-sgd.jar",
+				"filename": "creeper_crush-fabric-0.1.10-26.1.1-sgd.jar",
 				"name": "I Have a Crush on a Creeper?!?",
 				"side": "both"
 			},
@@ -411,7 +411,7 @@
 				"side": "both"
 			}
 		},
-		"key": "5028b6f3616ce62a883ff00cf9601068cade0cf19c472656ab0b01a1958884e6"
+		"key": "85758e1ca936a3ab2a5b6ab48125e9a8423583dfd475cfdc1f20afe4935999eb"
 	},
 	"dual-stance": {
 		"checks": {
@@ -576,26 +576,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.149.1+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/grappling-hooke.pw.toml": {
 				"download": {
-					"hash": "c2f2ec04d4c888454dae08db7242c677a9a7946de6698ff95293968dcc36fe67a786e49d2694fa66583ec51442cd588f64e228def39cd5f2a427347955adc2ff",
+					"hash": "1af35140ebaad9681d272558c5fb54eecd1ab0c0acc79cd4d2624fe7f6f1157ca3486c81ba323a78c36892c1958e8a39d07cd1e3b6e9a02fa8ae093926a9c608",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/QhUinAXx/versions/DcXhyDsj/grapplinghooke-1.2.0.jar"
+					"url": "https://cdn.modrinth.com/data/QhUinAXx/versions/izbTj6py/grapplinghooke-1.2.1.jar"
 				},
-				"filename": "grapplinghooke-1.2.0.jar",
+				"filename": "grapplinghooke-1.2.1.jar",
 				"name": "Grappling Hooke",
 				"side": "both"
 			}
 		},
-		"key": "6996a4d24a09e9b3adc0053e220d3ebb2c2320160885a6f499016d45e41cfe41"
+		"key": "c320267b14fcdffea9e914b0b450808c556208d1c4be6587245d613a546f7a7c"
 	},
 	"honeypots": {
 		"checks": {
@@ -634,16 +634,16 @@
 		"files": {
 			"mods/hotdognalds.pw.toml": {
 				"download": {
-					"hash": "3dede55822c3044a840ad014ffeb2bcc6d2e2dad75f3d9eac980630b0a81b464efa079ebdd95e89fbce711d7186a870d9450ee0bf192b807c6f877ad8e21513f",
+					"hash": "352e9be994cdc2ea49c2d135257eef78c50c6a28538dcd8be9b4b2d5df8f5b261063903304e80877b92e2a534312783020132d4a917f8aad366ee9cc319ecde5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/g0zHrDtk/versions/bFw2iDsG/hotdognalds-0.5.3%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/g0zHrDtk/versions/Gb0vur9M/hotdognalds-0.5.4%2B26.1.2.jar"
 				},
-				"filename": "hotdognalds-0.5.3+26.1.2.jar",
+				"filename": "hotdognalds-0.5.4+26.1.2.jar",
 				"name": "Hotdognald's",
 				"side": "both"
 			}
 		},
-		"key": "fb3cc42659e9e05fdd45157667b960d31568909dfc8f5f941d216a6d41b9c199"
+		"key": "79612ec1ef64532d00f8ff6df3503e4f8ac516760379840bc7b1abf06619a6b1"
 	},
 	"ikhemusek": {
 		"checks": {
@@ -894,26 +894,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "c7589aa4deeaa6dbefc13247eb5e0d4e257c152ef039937f54d6ee28282d3c84ccc96483d9c3950286fed6e3dcc546709898c8a446ab143d1663bc7d49649c54",
+					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Sy2Bq7Xc/fabric-api-0.149.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.149.0+26.1.2.jar",
+				"filename": "fabric-api-0.149.1+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/magical-allayship.pw.toml": {
 				"download": {
-					"hash": "b7f38a7b6047521862cea371bef2da01fc60780f655ccb8670d61b0d57bc1f394215b79514a000924828d8b259d84ae3c1dc656caa9eb6d15474882661b10fac",
+					"hash": "a7b8240ccc2aa36cb59b16603e4f6e47549e925c002a68f7ff2ba32f73ff4c80c971c9c18565c5063f7b42ac30283f40d9f79584dc9267a3c11cc1b558288d83",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/n49unES0/versions/8QKeu4ZR/magical-allayship-1.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/n49unES0/versions/qZoJblxm/magical-allayship-1.0.2.jar"
 				},
-				"filename": "magical-allayship-1.0.1.jar",
+				"filename": "magical-allayship-1.0.2.jar",
 				"name": "Magical Allayship",
 				"side": "both"
 			}
 		},
-		"key": "04bc7fb56323d26ac0acd4bb5a062de440ab73ed83ab233f11cf12710de44d7c"
+		"key": "9a0d700512ff9311a7bd1c646a0d90642f45a5b205c1e2a5bab81914e6f4aeaa"
 	},
 	"menko": {
 		"checks": {
@@ -952,16 +952,16 @@
 			},
 			"mods/meowdemic.pw.toml": {
 				"download": {
-					"hash": "94cedd60968a94a1f3d233408ae7dc7d360375388c4ed33ecb0e90900b3327f7bda62ac1fd40819c7d3b89673076b733b0ed08a194f47ce14ece06c72fd02506",
+					"hash": "5cc7c64339872f54ccdaf8e02dd39cda950e57e704d803c6464f5d211e69569e2cbbd22acc9e81fdd343b10f86ab73d6c62a5ca01349044c3c6284eaa90f84ce",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/vGjKknvh/meowdemic-1.1.8.jar"
+					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/PlTskIb1/meowdemic-1.1.9.jar"
 				},
-				"filename": "meowdemic-1.1.8.jar",
+				"filename": "meowdemic-1.1.9.jar",
 				"name": "Meowdemic",
 				"side": "both"
 			}
 		},
-		"key": "4148b35385ce90ed367ad353cef9cf4491d7aa834fa73749912a80053685de5b"
+		"key": "ce4df6501b69fc9668dcb4b323743d30eafba0a13dea5278111276366cafef49"
 	},
 	"monday-night-mining": {
 		"checks": {
@@ -1192,26 +1192,26 @@
 		"files": {
 			"mods/mmodding-library.pw.toml": {
 				"download": {
-					"hash": "3e35744884de658a99e8d2d491a07fa2ba5b5473522280fdbe0b81b77a8bee01bf9699a6dfe2148c019b008723bad61f7e29cfd73abfccc75955e3c8472f2ac4",
+					"hash": "82504ce6973b5c9db52058c9e4891a5a6ba3dd3cd595dcb946af53a3a373c2ea34fc1ba03350d38a2eead86b4cee52926b27f4a4b6ec3bcad8f15fcebd9df5ac",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/J3eDXLuX/versions/oRomabyb/mmodding_library-0.1.2-alpha%2B26.1.jar"
+					"url": "https://cdn.modrinth.com/data/J3eDXLuX/versions/M1qBgP9d/mmodding_library-0.2.1-alpha%2B26.1.jar"
 				},
-				"filename": "mmodding_library-0.1.2-alpha+26.1.jar",
+				"filename": "mmodding_library-0.2.1-alpha+26.1.jar",
 				"name": "MModding Library",
 				"side": "both"
 			},
 			"mods/psithurism.pw.toml": {
 				"download": {
-					"hash": "6f03736d218789cccbc54ba999afa62c3fe47b26e8c850ffce12175b4dd40d2a817a1f6e6a84bbe5d50cef13d842ec930648e3e83926210eb9fb2711604eebb8",
+					"hash": "6af2819faecf331216c0c178f4b198c5e3303dbb5df12bc7bdb3794d4bc35759900c234f4b1325a3e6dce394edc860a4931488124853cba2b5b9e9d5f3db36ae",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/3wdNAIW9/versions/bFZ7Usht/psithurism-1.0.4%2B26.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/3wdNAIW9/versions/luTQsDwY/psithurism-1.0.5%2B26.1.1.jar"
 				},
-				"filename": "psithurism-1.0.4+26.1.1.jar",
+				"filename": "psithurism-1.0.5+26.1.1.jar",
 				"name": "Psithurism",
 				"side": "both"
 			}
 		},
-		"key": "9126a72d23c97688ed75be57e86800890aae4331ddc7d45cea18891849a62dbf"
+		"key": "2039cd6137eeb54a30cfa485eaeead87f53dbc5391e8dcd3f85b803f50138dce"
 	},
 	"reliable-gliders": {
 		"checks": {
@@ -1240,16 +1240,16 @@
 		"files": {
 			"mods/renmi.pw.toml": {
 				"download": {
-					"hash": "62b7051e373cec63199e659860a3bd8224016c307f8698e4077e13a576253d2db2f845c4a12a837319d686babc7f77b4170692a3ccd6f5dfc312d8fb9d9eb6ed",
+					"hash": "36b53524a89c91b05cfcec0cf09fe275e66587b47335891fc4bcfa294ec343b3cd52ad4b9138beea14b8871b5505cd88b56cc83fa6f575eb03119075f923490f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/MdBFArA5/renmi-1.0.10-beta%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/GwNRC1HK/renmi-1.0.12-beta%2B26.1.2.jar"
 				},
-				"filename": "renmi-1.0.10-beta+26.1.2.jar",
+				"filename": "renmi-1.0.12-beta+26.1.2.jar",
 				"name": "Ren'mi",
 				"side": "both"
 			}
 		},
-		"key": "b4720ef87da6712a9854c252e93e86d32b511959deea5e588c294833089b68f2"
+		"key": "9cadbe5f01b0435b9bd593f9bcb4192bcb36ad0b76cde958b9a0da192ea1f631"
 	},
 	"scriboodle": {
 		"checks": {
@@ -1408,8 +1408,8 @@
 	},
 	"under-the-cherry-trees": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
