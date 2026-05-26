@@ -730,26 +730,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.149.1+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/kibss.pw.toml": {
 				"download": {
-					"hash": "91c12f36b67037428401ce9fcc3a8e97c242b446bb30366fbad1a5a5faf09e03a33457fcb99e4eb94c105ebef87f06bead5a151ab6743552ccc5f3127c85fc47",
+					"hash": "7af7333acef9cb6cf0afa23521d3376919e557429aa9791d3519a82a2d9cd01e907c145f63eb9b5bb6efcf956f005cb4f2da9f98629ad1156d70141b69d8e3ec",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P8ceGr8k/versions/3yPwQHiZ/kibss-1.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/P8ceGr8k/versions/ZKYXJRva/kibss-1.1.1.jar"
 				},
-				"filename": "kibss-1.1.0.jar",
+				"filename": "kibss-1.1.1.jar",
 				"name": "Kibss",
 				"side": "both"
 			}
 		},
-		"key": "92bd349aa1e615fbf2352582e3d05265a2f95567d90901d014baba48fa5d6f41"
+		"key": "a6c7320439d13f88adf53b0d39c6fa0a69b809c7df66f4518d2bc467b8115c7b"
 	},
 	"kurasu": {
 		"checks": {
