@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "monimi:item/splatana_wiper_microphone"
+	}
+}
