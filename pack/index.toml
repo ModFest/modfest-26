@@ -136,10 +136,6 @@ file = "mods/armorstandeditor.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/axiom-client.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/axiom-server.pw.toml"
 metafile = true
 
@@ -361,10 +357,6 @@ metafile = true
 
 [[files]]
 file = "mods/world-comment.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldedit-client.pw.toml"
 metafile = true
 
 [[files]]
@@ -993,6 +985,18 @@ file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/benea
 file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/beneath_the_virtual_sky.ogg"
 
 [[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/marco_polo-mono.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/marco_polo.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/modern_disco-mono.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/modern_disco.ogg"
+
+[[files]]
 file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/rot_for_clout-mono.ogg"
 
 [[files]]
@@ -1012,6 +1016,12 @@ file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/the_8
 
 [[files]]
 file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/beneath_the_virtual_sky.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/marco_polo.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/modern_disco.png"
 
 [[files]]
 file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/rot_for_clout.png"
@@ -1075,6 +1085,18 @@ file = "resources/common/required/monimi_charts/data/monimi/charts/beneath_the_v
 
 [[files]]
 file = "resources/common/required/monimi_charts/data/monimi/charts/beneath_the_virtual_sky-normal.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/marco_polo-easy.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/marco_polo-hard.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/marco_polo-normal.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/modern_disco-hard.json"
 
 [[files]]
 file = "resources/common/required/monimi_charts/data/monimi/charts/rot_for_clout-hard.json"
@@ -1302,6 +1324,9 @@ file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_f
 file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/pyrotunia.json"
 
 [[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/red_cherry_leaves.json"
+
+[[files]]
 file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/rice_plant.json"
 
 [[files]]
@@ -1351,6 +1376,12 @@ file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/item/it
 
 [[files]]
 file = "resources/datapack/required/mf_fireblanket/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/street_art_recipe/data/street_art/recipe/green_rollerblades.json"
+
+[[files]]
+file = "resources/datapack/required/street_art_recipe/pack.mcmeta"
 
 [[files]]
 file = "resources/datapack/required/switchyscale/data/minecraft/switchy_components/scale.json"
@@ -1521,6 +1552,9 @@ file = "resources/resourcepack/required/mf_branding/assets/modfest/textures/art/
 file = "resources/resourcepack/required/mf_branding/assets/modfest/textures/art/icon/transparent-modfest.png"
 
 [[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/lang/en_us.json"
+
+[[files]]
 file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_001.png"
 
 [[files]]
@@ -1531,6 +1565,45 @@ file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_004.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_005.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_006.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_007.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_008.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_009.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_010.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_011.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_012.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_013.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_014.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_015.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_016.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_017.png"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/pack.mcmeta"
@@ -1560,10 +1633,34 @@ file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/a
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ananas_question.png"
 
 [[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ananas_silly.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ananas_sob.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ananas_stylish.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ananas_think.png"
+
+[[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/aro_heart.png"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/aroace_heart.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/bb_blush.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/bb_dizzy.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/bb_happy.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/bb_surprised.png"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/bi_heart.png"
@@ -1608,6 +1705,18 @@ file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/l
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/lil_pineapple.png"
 
 [[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/lulu_blush.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/lulu_happy.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/lulu_joyful.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/lulu_stare.png"
+
+[[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/modfest.png"
 
 [[files]]
@@ -1629,6 +1738,15 @@ file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/p
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/pineapple.png"
 
 [[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/plume_devious.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/plume_happy.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/plume_pout.png"
+
+[[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/plural_heart.png"
 
 [[files]]
@@ -1638,7 +1756,13 @@ file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/q
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/queer_prog_heart.png"
 
 [[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/shrimple.png"
+
+[[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/trans_heart.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ugg.png"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/uh.png"
@@ -1668,19 +1792,52 @@ file = "resources/resourcepack/required/monimi_anims/assets/monimi/animations/be
 file = "resources/resourcepack/required/monimi_anims/assets/monimi/animations/doki.json"
 
 [[files]]
+file = "resources/resourcepack/required/monimi_anims/assets/monimi/animations/explode.json"
+
+[[files]]
 file = "resources/resourcepack/required/monimi_anims/assets/monimi/animations/proximity.json"
+
+[[files]]
+file = "resources/resourcepack/required/monimi_anims/assets/monimi/animations/splatana.json"
 
 [[files]]
 file = "resources/resourcepack/required/monimi_anims/assets/monimi/items/benson_microphone.json"
 
 [[files]]
+file = "resources/resourcepack/required/monimi_anims/assets/monimi/items/splatana_wiper_microphone.json"
+
+[[files]]
 file = "resources/resourcepack/required/monimi_anims/assets/monimi/models/item/benson_microphone.json"
+
+[[files]]
+file = "resources/resourcepack/required/monimi_anims/assets/monimi/models/item/splatana_wiper_microphone.json"
 
 [[files]]
 file = "resources/resourcepack/required/monimi_anims/assets/monimi/textures/item/benson_microphone.png"
 
 [[files]]
+file = "resources/resourcepack/required/monimi_anims/assets/monimi/textures/item/splatana_wiper_microphone.png"
+
+[[files]]
 file = "resources/resourcepack/required/monimi_anims/pack.mcmeta"
+
+[[files]]
+file = "resources/resourcepack/required/renmi_showcase/assets/renmi/actors/taken.json"
+
+[[files]]
+file = "resources/resourcepack/required/renmi_showcase/assets/renmi/lang/en_us.json"
+
+[[files]]
+file = "resources/resourcepack/required/renmi_showcase/assets/renmi/textures/portrait/taken/neutral.png"
+
+[[files]]
+file = "resources/resourcepack/required/renmi_showcase/assets/renmi/textures/portrait/taken/shocked.png"
+
+[[files]]
+file = "resources/resourcepack/required/renmi_showcase/assets/renmi/textures/portrait/taken/upset.png"
+
+[[files]]
+file = "resources/resourcepack/required/renmi_showcase/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/twemoji.zip"
