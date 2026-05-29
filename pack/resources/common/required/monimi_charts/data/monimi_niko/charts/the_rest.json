@@ -6,7 +6,8 @@
 		"file": "monimi_niko:music/the_rest",
 		"cover": "monimi_niko:textures/cover/the_rest.png",
 		"length": 145,
-		"bpm": 154
+		"bpm": 154,
+		"volume": 0.5
 	},
 	"charter": "niko",
 	"difficulty": "hard",

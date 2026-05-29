@@ -6,7 +6,8 @@
         "cover": "monimi_zewei:textures/cover/daenaf.png",
         "length": 92,
         "bpm": 145,
-        "streamUnsafe": false
+        "streamUnsafe": false,
+        "volume": 0.5
     },
     "charter": "chromonym",
     "difficulty": "hard",
