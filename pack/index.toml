@@ -382,16 +382,28 @@ file = "options.txt"
 file = "resources/common/required/mf_music/assets/minecraft/sounds.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/as_is_and_as_was_before.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/athletics.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/auburn_decoy.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/basil.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/false_indigo.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/finish_or_flounder.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/heliograce.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/horizontal_hourglass.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/i_wannanana.json"
@@ -413,6 +425,9 @@ file = "resources/common/required/mf_music/assets/modfest/items/music/pasuka.jso
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/pollen_bazooka.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/red_hot_poker.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/reset.json"
@@ -451,16 +466,28 @@ file = "resources/common/required/mf_music/assets/modfest/items/music/wisps.json
 file = "resources/common/required/mf_music/assets/modfest/lang/en_us.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/as_is_and_as_was_before.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/athletics.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/auburn_decoy.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/basil.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/false_indigo.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/finish_or_flounder.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/heliograce.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/horizontal_hourglass.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/i_wannanana.json"
@@ -482,6 +509,9 @@ file = "resources/common/required/mf_music/assets/modfest/models/item/music/pasu
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/pollen_bazooka.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/red_hot_poker.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/reset.json"
@@ -520,16 +550,28 @@ file = "resources/common/required/mf_music/assets/modfest/models/item/music/wisp
 file = "resources/common/required/mf_music/assets/modfest/sounds.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/as_is_and_as_was_before.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/athletics.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/auburn_decoy.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/basil.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/false_indigo.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/finish_or_flounder.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/heliograce.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/horizontal_hourglass.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/i_wannanana.ogg"
@@ -553,6 +595,9 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/pasuka.og
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/pollen_bazooka.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/red_hot_poker.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/reset.ogg"
 
 [[files]]
@@ -568,6 +613,12 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/shrine.og
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/smoking_club.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/as_is_and_as_was_before.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/as_is_and_as_was_before_loop.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/athletics.ogg"
 
 [[files]]
@@ -577,10 +628,22 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/at
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/auburn_decoy.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/basil.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/false_indigo.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/finish_or_flounder.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/heliograce.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/horizontal_hourglass.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/horizontal_hourglass_loop.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/i_wannanana.ogg"
@@ -605,6 +668,9 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/pa
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/pollen_bazooka.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/red_hot_poker.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/reset.ogg"
@@ -667,16 +733,28 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/vip.ogg"
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/wisps.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/as_is_and_as_was_before.png"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/athletics.png"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/auburn_decoy.png"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/basil.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/false_indigo.png"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/finish_or_flounder.png"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/heliograce.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/horizontal_hourglass.png"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/i_wannanana.png"
@@ -698,6 +776,9 @@ file = "resources/common/required/mf_music/assets/modfest/textures/item/music/pa
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/pollen_bazooka.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/red_hot_poker.png"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/reset.png"
@@ -733,16 +814,28 @@ file = "resources/common/required/mf_music/assets/modfest/textures/item/music/vi
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/wisps.png"
 
 [[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/as_is_and_as_was_before.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/athletics.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/auburn_decoy.json"
 
 [[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/basil.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/false_indigo.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/finish_or_flounder.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/heliograce.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/horizontal_hourglass.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/i_wannanana.json"
@@ -766,6 +859,9 @@ file = "resources/common/required/mf_music/data/modfest/jukebox_song/pasuka.json
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/pollen_bazooka.json"
 
 [[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/red_hot_poker.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/reset.json"
 
 [[files]]
@@ -781,6 +877,12 @@ file = "resources/common/required/mf_music/data/modfest/jukebox_song/shrine.json
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/smoking_club.json"
 
 [[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/as_is_and_as_was_before.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/as_is_and_as_was_before_loop.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/athletics.json"
 
 [[files]]
@@ -790,10 +892,22 @@ file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/athl
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/auburn_decoy.json"
 
 [[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/basil.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/false_indigo.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/finish_or_flounder.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/heliograce.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/horizontal_hourglass.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/horizontal_hourglass_loop.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/i_wannanana.json"
@@ -818,6 +932,9 @@ file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/pasu
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/pollen_bazooka.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/red_hot_poker.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/reset.json"
@@ -985,6 +1102,12 @@ file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/benea
 file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/beneath_the_virtual_sky.ogg"
 
 [[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/i_wish_that_i_could_fall-mono.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/i_wish_that_i_could_fall.ogg"
+
+[[files]]
 file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/marco_polo-mono.ogg"
 
 [[files]]
@@ -1018,6 +1141,9 @@ file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/the_8
 file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/beneath_the_virtual_sky.png"
 
 [[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/i_wish_that_i_could_fall.png"
+
+[[files]]
 file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/marco_polo.png"
 
 [[files]]
@@ -1031,6 +1157,18 @@ file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/sla
 
 [[files]]
 file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/the_89s_momentum.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/sounds/music/chandelier-mono.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/sounds/music/chandelier.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/sounds/music/knock_it_out-mono.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/sounds/music/knock_it_out.ogg"
 
 [[files]]
 file = "resources/common/required/monimi_charts/assets/monimi_hololive/sounds/music/snake_eyes-mono.ogg"
@@ -1049,6 +1187,12 @@ file = "resources/common/required/monimi_charts/assets/monimi_hololive/sounds/mu
 
 [[files]]
 file = "resources/common/required/monimi_charts/assets/monimi_hololive/sounds/music/wind_up.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/textures/cover/chandelier.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/textures/cover/knock_it_out.png"
 
 [[files]]
 file = "resources/common/required/monimi_charts/assets/monimi_hololive/textures/cover/snake_eyes.png"
@@ -1087,6 +1231,12 @@ file = "resources/common/required/monimi_charts/data/monimi/charts/beneath_the_v
 file = "resources/common/required/monimi_charts/data/monimi/charts/beneath_the_virtual_sky-normal.json"
 
 [[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/i_wish_that_i_could_fall-hard.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/i_wish_that_i_could_fall-normal.json"
+
+[[files]]
 file = "resources/common/required/monimi_charts/data/monimi/charts/marco_polo-easy.json"
 
 [[files]]
@@ -1112,6 +1262,18 @@ file = "resources/common/required/monimi_charts/data/monimi/charts/the_89s_momen
 
 [[files]]
 file = "resources/common/required/monimi_charts/data/monimi/charts/the_89s_momentum-mania.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi_hololive/charts/chandelier.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi_hololive/charts/knock_it_out-hard.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi_hololive/charts/knock_it_out-mania.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi_hololive/charts/knock_it_out-normal.json"
 
 [[files]]
 file = "resources/common/required/monimi_charts/data/monimi_hololive/charts/snake_eyes.json"
