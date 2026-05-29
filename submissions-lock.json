@@ -1356,11 +1356,11 @@
 			},
 			"mods/street-art.pw.toml": {
 				"download": {
-					"hash": "cf6079fa479f925280dca67e44bfee0cb9e428b22191f75de50ee5d12e42ea14fddee9883d031e9f8ae101707c33f761009f89e162163863dffc87177f099f0c",
+					"hash": "97561c0482e7d592beb6f5f7df53a2a6c085c657ab08f308e214dc4eb22982386e2abb8a686821bc2e23cf5f1dc6c810ec3e003ed5c205a19fc39a8839048424",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/n1mlQeUN/street_art-1.0.11.jar"
+					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/JWGvht1H/street_art-1.0.13.jar"
 				},
-				"filename": "street_art-1.0.11.jar",
+				"filename": "street_art-1.0.13.jar",
 				"name": "Street Art",
 				"side": "both"
 			},
@@ -1375,7 +1375,7 @@
 				"side": "both"
 			}
 		},
-		"key": "57b6cc89094c122d870208422ae7458ef2d7d9f845e9b9264c0382e245928486"
+		"key": "42114937d96fe88f2a8315ca7c8a20c4af1f989de10350bd91a22f1395c280fe"
 	},
 	"syncope-synecdoche": {
 		"checks": {
