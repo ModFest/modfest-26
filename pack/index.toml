@@ -387,55 +387,244 @@ file = "options.txt"
 file = "resources/common/required/mf_music/assets/minecraft/sounds.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/athletics.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/auburn_decoy.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/finish_or_flounder.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/heliograce.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/i_wannanana.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/ice_cold_spades.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/ink_shot.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/lily_of_the_valley.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/momentum.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/pasuka.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/pollen_bazooka.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/reset.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/rest.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/shrimp_music.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/shrine.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/smoking_club.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/tales_of_yore.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/trotting_fox.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/twin_suns.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/uplink.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/vip.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/wisps.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/lang/en_us.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/athletics.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/auburn_decoy.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/finish_or_flounder.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/heliograce.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/i_wannanana.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/ice_cold_spades.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/ink_shot.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/lily_of_the_valley.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/momentum.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/pasuka.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/pollen_bazooka.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/reset.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/rest.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/shrimp_music.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/shrine.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/smoking_club.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/tales_of_yore.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/trotting_fox.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/twin_suns.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/uplink.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/vip.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/wisps.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/athletics.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/auburn_decoy.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/finish_or_flounder.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/heliograce.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/i_wannanana.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/ice_cold_spades.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/ink_shot.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/lily_of_the_valley.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/momentum.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/pasuka.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/pollen_bazooka.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/reset.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/rest.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/shrimp_music.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/shrine.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/smoking_club.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/athletics.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/athletics_loop.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/auburn_decoy.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/finish_or_flounder.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/heliograce.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/i_wannanana.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/i_wannanana_loop.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/ice_cold_spades.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/ink_shot.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/lily_of_the_valley.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/momentum.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/pasuka.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/pollen_bazooka.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/reset.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/rest.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/shrimp_music.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/shrimp_music_loop.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/shrine.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/smoking_club.ogg"
@@ -444,43 +633,256 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/sm
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/smoking_club_loop.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/tales_of_yore.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/trotting_fox.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/twin_suns.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/uplink.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/vip.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/vip_loop.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/wisps.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/tales_of_yore.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/trotting_fox.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/twin_suns.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/uplink.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/vip.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/wisps.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/athletics.png"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/auburn_decoy.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/finish_or_flounder.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/heliograce.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/i_wannanana.png"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/ice_cold_spades.png"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/ink_shot.png"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/lily_of_the_valley.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/momentum.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/pasuka.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/pollen_bazooka.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/reset.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/rest.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/shrimp_music.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/shrine.png"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/smoking_club.png"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/tales_of_yore.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/trotting_fox.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/twin_suns.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/uplink.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/vip.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/wisps.png"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/athletics.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/auburn_decoy.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/finish_or_flounder.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/heliograce.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/i_wannanana.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/ice_cold_spades.json"
 
 [[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/ink_shot.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/lily_of_the_valley.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/momentum.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/pasuka.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/pollen_bazooka.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/reset.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/rest.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/shrimp_music.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/shrine.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/smoking_club.json"
 
 [[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/athletics.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/athletics_loop.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/auburn_decoy.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/finish_or_flounder.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/heliograce.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/i_wannanana.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/i_wannanana_loop.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/ice_cold_spades.json"
 
 [[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/ink_shot.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/lily_of_the_valley.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/momentum.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/pasuka.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/pollen_bazooka.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/reset.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/rest.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/shrimp_music.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/shrimp_music_loop.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/shrine.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/smoking_club.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/smoking_club_loop.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/tales_of_yore.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/trotting_fox.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/twin_suns.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/uplink.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/vip.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/vip_loop.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/wisps.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/tales_of_yore.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/trotting_fox.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/twin_suns.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/uplink.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/vip.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/wisps.json"
 
 [[files]]
 file = "resources/common/required/mf_music/pack.mcmeta"
@@ -1114,6 +1516,18 @@ file = "resources/resourcepack/required/mf_branding/assets/modfest/textures/art/
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/modfest/textures/art/icon/transparent-modfest.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_001.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_002.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_003.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/worldcomment/textures/emoji/id_004.png"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/pack.mcmeta"
