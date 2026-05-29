@@ -22,7 +22,6 @@
 	},
 	"participant": {
 		"level": 5,
-		"includes": ["builder"],
 		"overrides": {
 			"permission_keys": {
 				"modfest.participant": "allow"
