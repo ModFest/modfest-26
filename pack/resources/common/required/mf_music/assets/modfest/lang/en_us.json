@@ -1,4 +1,8 @@
 {
+	"modfest.music.as_is_and_as_was_before": "soileH - as is and as was before (Jukebox)",
+	"modfest.music.stereo.as_is_and_as_was_before": "soileH - as is and as was before",
+	"lore.modfest.music.as_is_and_as_was_before": "Hint #XX - ???",
+
 	"modfest.music.athletics": "Aethyus - Athletics (Jukebox)",
 	"modfest.music.stereo.athletics": "Aethyus - Athletics",
 	"lore.modfest.music.athletics": "Hint #XX - ???",
@@ -7,6 +11,14 @@
 	"modfest.music.stereo.auburn_decoy": "Aethyus - Auburn Decoy",
 	"lore.modfest.music.auburn_decoy": "Hint #XX - ???",
 
+	"modfest.music.basil": "lynndova - Basil (Jukebox)",
+	"modfest.music.stereo.basil": "lynndova - Basil",
+	"lore.modfest.music.basil": "Hint #XX - ???",
+
+	"modfest.music.false_indigo": "lynndova - False Indigo (Jukebox)",
+	"modfest.music.stereo.false_indigo": "lynndova - False Indigo",
+	"lore.modfest.music.false_indigo": "Hint #XX - ???",
+
 	"modfest.music.finish_or_flounder": "Superkat32 - Finish or Flounder (Jukebox)",
 	"modfest.music.stereo.finish_or_flounder": "Superkat32 - Finish or Flounder",
 	"lore.modfest.music.finish_or_flounder": "Hint #XX - ???",
@@ -14,6 +26,10 @@
 	"modfest.music.heliograce": "Aethyus - Heliograce (Jukebox)",
 	"modfest.music.stereo.heliograce": "Aethyus - Heliograce",
 	"lore.modfest.music.heliograce": "Hint #XX - ???",
+
+	"modfest.music.horizontal_hourglass": "soileH - Horizontal Hourglass (Jukebox)",
+	"modfest.music.stereo.horizontal_hourglass": "soileH - Horizontal Hourglass",
+	"lore.modfest.music.horizontal_hourglass": "Hint #XX - ???",
 
 	"modfest.music.i_wannanana": "Nulb - I Wannanana (Jukebox)",
 	"modfest.music.stereo.i_wannanana": "Nulb - I Wannanana",
@@ -42,6 +58,10 @@
 	"modfest.music.pollen_bazooka": "Superkat32 - Pollen Bazooka (Jukebox)",
 	"modfest.music.stereo.pollen_bazooka": "Superkat32 - Pollen Bazooka",
 	"lore.modfest.music.pollen_bazooka": "Hint #XX - ???",
+
+	"modfest.music.red_hot_poker": "lynndova - Red Hot Poker (Jukebox)",
+	"modfest.music.stereo.red_hot_poker": "lynndova - Red Hot Poker",
+	"lore.modfest.music.red_hot_poker": "Hint #XX - ???",
 
 	"modfest.music.reset": "Nulb - reset (Jukebox)",
 	"modfest.music.stereo.reset": "Nulb - reset",

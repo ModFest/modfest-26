@@ -2,6 +2,102 @@
 	"music.area.sash": {
 		"sounds": []
 	},
+	"music.basil": {
+		"sounds": [
+			{
+				"name": "modfest:music/basil",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.basil": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/basil",
+				"stream": true
+			}
+		]
+	},
+	"music.false_indigo": {
+		"sounds": [
+			{
+				"name": "modfest:music/false_indigo",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.false_indigo": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/false_indigo",
+				"stream": true
+			}
+		]
+	},
+	"music.red_hot_poker": {
+		"sounds": [
+			{
+				"name": "modfest:music/red_hot_poker",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.red_hot_poker": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/red_hot_poker",
+				"stream": true
+			}
+		]
+	},
+	"music.as_is_and_as_was_before": {
+		"sounds": [
+			{
+				"name": "modfest:music/as_is_and_as_was_before",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.as_is_and_as_was_before": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/as_is_and_as_was_before",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.as_is_and_as_was_before_loop": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/as_is_and_as_was_before_loop",
+				"stream": true
+			}
+		]
+	},
+	"music.horizontal_hourglass": {
+		"sounds": [
+			{
+				"name": "modfest:music/horizontal_hourglass",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.horizontal_hourglass": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/horizontal_hourglass",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.horizontal_hourglass_loop": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/horizontal_hourglass_loop",
+				"stream": true
+			}
+		]
+	},
 	"music.athletics": {
 		"sounds": [
 			{
