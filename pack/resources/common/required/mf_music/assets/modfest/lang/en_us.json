@@ -1,17 +1,89 @@
 {
+	"modfest.music.athletics": "Aethyus - Athletics (Jukebox)",
+	"modfest.music.stereo.athletics": "Aethyus - Athletics",
+	"lore.modfest.music.athletics": "Hint #XX - ???",
+
 	"modfest.music.auburn_decoy": "Aethyus - Auburn Decoy (Jukebox)",
 	"modfest.music.stereo.auburn_decoy": "Aethyus - Auburn Decoy",
 	"lore.modfest.music.auburn_decoy": "Hint #XX - ???",
 
-	"modfest.music.lily_of_the_valley": "lynndova - Lily of the Valley (Jukebox)",
-	"modfest.music.stereo.lily_of_the_valley": "lynndova - Lily of the Valley",
-	"lore.modfest.music.lily_of_the_valley": "Hint #XX - ???",
+	"modfest.music.finish_or_flounder": "Superkat32 - Finish or Flounder (Jukebox)",
+	"modfest.music.stereo.finish_or_flounder": "Superkat32 - Finish or Flounder",
+	"lore.modfest.music.finish_or_flounder": "Hint #XX - ???",
+
+	"modfest.music.heliograce": "Aethyus - Heliograce (Jukebox)",
+	"modfest.music.stereo.heliograce": "Aethyus - Heliograce",
+	"lore.modfest.music.heliograce": "Hint #XX - ???",
+
+	"modfest.music.i_wannanana": "Nulb - I Wannanana (Jukebox)",
+	"modfest.music.stereo.i_wannanana": "Nulb - I Wannanana",
+	"lore.modfest.music.i_wannanana": "Hint #XX - ???",
 
 	"modfest.music.ice_cold_spades": "lynndova - Ice Cold Spades (Jukebox)",
 	"modfest.music.stereo.ice_cold_spades": "lynndova - Ice Cold Spades",
 	"lore.modfest.music.ice_cold_spades": "Hint #XX - ???",
 
+	"modfest.music.ink_shot": "Superkat32 - Ink Shot (Jukebox)",
+	"modfest.music.stereo.ink_shot": "Superkat32 - Ink Shot",
+	"lore.modfest.music.ink_shot": "Hint #XX - ???",
+
+	"modfest.music.lily_of_the_valley": "lynndova - Lily of the Valley (Jukebox)",
+	"modfest.music.stereo.lily_of_the_valley": "lynndova - Lily of the Valley",
+	"lore.modfest.music.lily_of_the_valley": "Hint #XX - ???",
+
+	"modfest.music.momentum": "Aethyus - Momentum (Jukebox)",
+	"modfest.music.stereo.momentum": "Aethyus - Momentum",
+	"lore.modfest.music.momentum": "Hint #XX - ???",
+
+	"modfest.music.pasuka": "Superkat32 - Pasuka (Jukebox)",
+	"modfest.music.stereo.pasuka": "Superkat32 - Pasuka",
+	"lore.modfest.music.pasuka": "Hint #XX - ???",
+
+	"modfest.music.pollen_bazooka": "Superkat32 - Pollen Bazooka (Jukebox)",
+	"modfest.music.stereo.pollen_bazooka": "Superkat32 - Pollen Bazooka",
+	"lore.modfest.music.pollen_bazooka": "Hint #XX - ???",
+
+	"modfest.music.reset": "Nulb - reset (Jukebox)",
+	"modfest.music.stereo.reset": "Nulb - reset",
+	"lore.modfest.music.reset": "Hint #XX - ???",
+
+	"modfest.music.rest": "Aethyus - Rest... (Jukebox)",
+	"modfest.music.stereo.rest": "Aethyus - Rest...",
+	"lore.modfest.music.rest": "Hint #XX - ???",
+
+	"modfest.music.shrimp_music": "Nulb - Shrimp Fried Music (Jukebox)",
+	"modfest.music.stereo.shrimp_music": "Nulb - Shrimp Fried Music",
+	"lore.modfest.music.shrimp_music": "Hint #XX - ???",
+
+	"modfest.music.shrine": "Aethyus - Shrine (Jukebox)",
+	"modfest.music.stereo.shrine": "Aethyus - Shrine",
+	"lore.modfest.music.shrine": "Hint #XX - ???",
+
 	"modfest.music.smoking_club": "Nulb - Anti-Smoking Smoking Club (Jukebox)",
 	"modfest.music.stereo.smoking_club": "Nulb - Anti-Smoking Smoking Club",
-	"lore.modfest.music.smoking_club": "Hint #XX - ???"
+	"lore.modfest.music.smoking_club": "Hint #XX - ???",
+
+	"modfest.music.tales_of_yore": "Aethyus - Tales of Yore (Jukebox)",
+	"modfest.music.stereo.tales_of_yore": "Aethyus - Tales of Yore",
+	"lore.modfest.music.tales_of_yore": "Hint #XX - ???",
+
+	"modfest.music.trotting_fox": "Jaevy - Trotting Fox (Jukebox)",
+	"modfest.music.stereo.trotting_fox": "Jaevy - Trotting Fox",
+	"lore.modfest.music.trotting_fox": "Hint #XX - ???",
+
+	"modfest.music.twin_suns": "Aethyus  - Twin Suns (Jukebox)",
+	"modfest.music.stereo.twin_suns": "Aethyus  - Twin Suns",
+	"lore.modfest.music.twin_suns": "Hint #XX - ???",
+
+	"modfest.music.uplink": "Nulb - Uplink (Jukebox)",
+	"modfest.music.stereo.uplink": "Nulb - Uplink",
+	"lore.modfest.music.uplink": "Hint #XX - ???",
+
+	"modfest.music.vip": "Nulb - V(ery) I(mportant) P(urple) (Jukebox)",
+	"modfest.music.stereo.vip": "Nulb - V(ery) I(mportant) P(urple)",
+	"lore.modfest.music.vip": "Hint #XX - ???",
+
+	"modfest.music.wisps": "Aethyus - Wisps (Jukebox)",
+	"modfest.music.stereo.wisps": "Aethyus - Wisps",
+	"lore.modfest.music.wisps": "Hint #XX - ???"
 }
