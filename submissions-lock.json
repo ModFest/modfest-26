@@ -286,26 +286,26 @@
 		"files": {
 			"mods/booyah.pw.toml": {
 				"download": {
-					"hash": "3ac58b317dbe282cb6c5e53d2d6e573e6d3d290405e28c74308726de56b1be9660134e9a2bfe8a9ca1eaf51515f0e5dc6352c5ade6110b795970307b4ef9d6c2",
+					"hash": "29792a1fe9134611b2571405165fcc525c16b4b982d1a03d78aacabd470f541d467c1c183f2e1053bf388510991af28b6a292bf5c289250e6ba9b6e4c517f28f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/ccpPjy4h/booyah-1.0.4.jar"
+					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/Kl4ogJcx/booyah-1.0.5.jar"
 				},
-				"filename": "booyah-1.0.4.jar",
+				"filename": "booyah-1.0.5.jar",
 				"name": "Booyah!",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
+					"hash": "238c793b720ed21d2d5b564eca88c714cf2188f7b0fb1fd30864660f80901e2b4dad273994b6f77de3c0aa365f930ed8aaccffac49b36c6456b153b52d5d21dc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/E1mjhYMF/fabric-api-0.150.0%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.149.1+26.1.2.jar",
+				"filename": "fabric-api-0.150.0+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "6dc2e65749d6ef362024c149bc65237614e56b6d1decc58465df616fe93af07d"
+		"key": "84793b239bd1c77602c5eaef24fa8c956a4fa4f69179938275146b65e5964200"
 	},
 	"botanicmagic": {
 		"checks": {
@@ -769,16 +769,16 @@
 			},
 			"mods/kurasu.pw.toml": {
 				"download": {
-					"hash": "14cad4e3394cf9be07545c7d5fda8a45556b59b13c3e5301aa008b7a28e344084a2e6440c0b30bcb141274f56b7edebc4a6ec7c9d7e1b2689dd99b09b2430662",
+					"hash": "30d9ab572a7eaec7b1942e39d5890095af0c95f1b519519a19c5078d040bd0fc3e3cc01bab85c134d081aac99c14bb99c8c48a46ea3e36034ee00855f22001ad",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ybFDR5BW/versions/kORM8Ohw/kurasu-0.1.8.jar"
+					"url": "https://cdn.modrinth.com/data/ybFDR5BW/versions/ppDVFoOZ/kurasu-0.1.9.jar"
 				},
-				"filename": "kurasu-0.1.8.jar",
+				"filename": "kurasu-0.1.9.jar",
 				"name": "Kurasu",
 				"side": "both"
 			}
 		},
-		"key": "c43cad67c0566e886614e838b88ca04829be002149c11be1a01fef4d521c1f13"
+		"key": "7c330bb0f87ae38f2732e4ae890d477b7cd068db221110c85e8bce44a2c5392a"
 	},
 	"letters-of-effection": {
 		"checks": {
@@ -1356,11 +1356,11 @@
 			},
 			"mods/street-art.pw.toml": {
 				"download": {
-					"hash": "cf6079fa479f925280dca67e44bfee0cb9e428b22191f75de50ee5d12e42ea14fddee9883d031e9f8ae101707c33f761009f89e162163863dffc87177f099f0c",
+					"hash": "97561c0482e7d592beb6f5f7df53a2a6c085c657ab08f308e214dc4eb22982386e2abb8a686821bc2e23cf5f1dc6c810ec3e003ed5c205a19fc39a8839048424",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/n1mlQeUN/street_art-1.0.11.jar"
+					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/JWGvht1H/street_art-1.0.13.jar"
 				},
-				"filename": "street_art-1.0.11.jar",
+				"filename": "street_art-1.0.13.jar",
 				"name": "Street Art",
 				"side": "both"
 			},
@@ -1375,7 +1375,7 @@
 				"side": "both"
 			}
 		},
-		"key": "57b6cc89094c122d870208422ae7458ef2d7d9f845e9b9264c0382e245928486"
+		"key": "42114937d96fe88f2a8315ca7c8a20c4af1f989de10350bd91a22f1395c280fe"
 	},
 	"syncope-synecdoche": {
 		"checks": {
