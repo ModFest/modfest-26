@@ -68,7 +68,8 @@
 			},
 			"commands": {
 				"help": "allow",
-				"polymer.*": "deny"
+				"polymer.*": "deny",
+				"syncope-synecdoche": "deny"
 			}
 		}
 	}
