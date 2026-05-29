@@ -190,6 +190,9 @@ file = "mods/custom-logo.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/defaulted_hotkeys-2.1.1-modfest.26-26.1.2-fabric.jar"
+
+[[files]]
 file = "mods/drogstyle.pw.toml"
 metafile = true
 
