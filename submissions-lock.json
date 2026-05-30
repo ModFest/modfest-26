@@ -65,9 +65,9 @@
 		"files": {
 			"mods/arbitration.pw.toml": {
 				"download": {
-					"hash": "8cee5d1d8cdc358f2164f91b9399183cf4a54bcd880949edc8b569c6336e3fa84d842a9cfe034cb449040bc7b88b340498a1178699cd45e19e69f6f241fb2ea9",
+					"hash": "6315a29854e821ca897e6f7adb315a99de5d6516dc6472d6c34aa4facf807e673f4a95ac128eaf482806fb8ff4031af0d12ff8f552207d680eec96a5a49529e3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xSJDsTRj/versions/6FLOePuY/arbitration-1.3.12%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/xSJDsTRj/versions/CF2GIGeU/arbitration-1.3.12%2Bfabric-26.1.jar"
 				},
 				"filename": "arbitration-1.3.12+fabric-26.1.jar",
 				"name": "Arbitration",
@@ -75,16 +75,16 @@
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
+					"hash": "238c793b720ed21d2d5b564eca88c714cf2188f7b0fb1fd30864660f80901e2b4dad273994b6f77de3c0aa365f930ed8aaccffac49b36c6456b153b52d5d21dc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/E1mjhYMF/fabric-api-0.150.0%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.149.1+26.1.2.jar",
+				"filename": "fabric-api-0.150.0+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "e6fbc04b8c901477b08bdadda760d0871e96ad62e91c890cebf979185a127f25"
+		"key": "222e5d6e3023ec6d9709980be36f209b8ea2f9b6450407b8f8d4265186b35beb"
 	},
 	"archery-gimmicks": {
 		"checks": {
@@ -980,16 +980,16 @@
 		"files": {
 			"mods/mugann.pw.toml": {
 				"download": {
-					"hash": "b7607e7b0932417670dda7529787fc7f9f8bde3abe1e2d593b2fedf82f8c1345c68e9691fd26cc2b44bfb1af316c6bed7094e5d9ccda824a8af7efe79c9f699f",
+					"hash": "e83f4e0a2f92eb77d794a3e5c5ce612b2274bfd69aea5cbcbe4870edebde76722d10dad9851b63c20eb4448c2f23851b2d8739cc67d035ca79c5c740e4b7f281",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/yQ1rZRkj/mugann-1.0.16.jar"
+					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/9iWoPEFp/mugann-1.0.18.jar"
 				},
-				"filename": "mugann-1.0.16.jar",
+				"filename": "mugann-1.0.18.jar",
 				"name": "Mugann",
 				"side": "both"
 			}
 		},
-		"key": "92b968721c3e34f8031039594a4892cd4ea52d5815e36afd67017319c331bd64"
+		"key": "ff3d2f17ab4be2bad55f7395216465fd736d1cf753ca7f0d933e11896e992f76"
 	},
 	"off-the-shelf": {
 		"checks": {
@@ -1230,16 +1230,16 @@
 		"files": {
 			"mods/renmi.pw.toml": {
 				"download": {
-					"hash": "4cfac7fbffbfdfd64e4275b7893dc2580a6d54e5bc2c02afcf27c4108e5dc3f7d69243c4b42662de65d8815091c2f8f6a19cd829be88bc72842078fc6d1f3509",
+					"hash": "ddb1c28e7fd09c25bb6c229869698caf0bea9311d5fafdc2102fe9fd5c35e22eba063670bcb1ef8e1b60428cada40c52030e82b767bfab6cc69be6aa9372d73b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/j2sOKuB1/renmi-1.0.13-beta%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/y7ccTd8S/renmi-1.0.14-beta%2B26.1.2.jar"
 				},
-				"filename": "renmi-1.0.13-beta+26.1.2.jar",
+				"filename": "renmi-1.0.14-beta+26.1.2.jar",
 				"name": "Ren'mi",
 				"side": "both"
 			}
 		},
-		"key": "c756229ddd423d883d2b63bf94b2d653b5f80bbe9d111c94a80fa869984ef0b9"
+		"key": "d72b9bc51b96cbb4f8630521a5add4b8dbf0cd2ee8b36c42f33aa9ee6a0f8062"
 	},
 	"scriboodle": {
 		"checks": {
