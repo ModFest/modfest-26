@@ -980,16 +980,16 @@
 		"files": {
 			"mods/mugann.pw.toml": {
 				"download": {
-					"hash": "874eb681f11435129bcfd6ef82aceeac3b27f76cdf33065f3f51a2e9022277fbf1e9a076f4b9afc64d26ac416dd2d4d213693a287025630ae73e7c6f3df3dcf6",
+					"hash": "b7607e7b0932417670dda7529787fc7f9f8bde3abe1e2d593b2fedf82f8c1345c68e9691fd26cc2b44bfb1af316c6bed7094e5d9ccda824a8af7efe79c9f699f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/nEKpBjlv/mugann-1.0.15.jar"
+					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/yQ1rZRkj/mugann-1.0.16.jar"
 				},
-				"filename": "mugann-1.0.15.jar",
+				"filename": "mugann-1.0.16.jar",
 				"name": "Mugann",
 				"side": "both"
 			}
 		},
-		"key": "c133b9de312a514d238274b1abdd4c8f6aefeccbd169f7b0f086b503b59f8e61"
+		"key": "92b968721c3e34f8031039594a4892cd4ea52d5815e36afd67017319c331bd64"
 	},
 	"off-the-shelf": {
 		"checks": {
