@@ -1,6 +1,55 @@
 {
 	"music.area.sash": {
-		"sounds": []
+		"sounds":  [
+			{
+				"name": "modfest:music/stereo/athletics",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/false_indigo",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/heliograce",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/ice_cold_spades",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/ink_shot",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/momentum",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/pollen_bazooka",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/shrine",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/trotting_fox",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/twin_suns",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/uplink",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/wisps",
+				"stream": true
+			}
+		]
 	},
 	"music.basil": {
 		"sounds": [
