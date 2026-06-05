@@ -1,13 +1,13 @@
 name = "WorldComment"
-filename = "WorldComment-fabric-0.6.0-beta.3+26.1.jar"
+filename = "WorldComment-0.6.0-beta.4+26.1.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GNAofCJ3/versions/XNzQ3Iqo/WorldComment-fabric-0.6.0-beta.3%2B26.1.jar"
+url = "https://cdn.modrinth.com/data/GNAofCJ3/versions/eEnoDoBE/WorldComment-0.6.0-beta.4%2B26.1.2-fabric.jar"
 hash-format = "sha512"
-hash = "47bb46a09d6782399e5e44ed127be0786113dbb29e127b8bf2efbaa03d22da784b93cfefa60251f71c6e6272b6df543a2df55c43b96e94a12ed94140bc99ee6b"
+hash = "f862adf06c3e7f8345bacef88cd19c3299f73c133fc6ec1473e111eee3e9883bfe82aae978cb6b01bbb6488da68b4464d95d07417e2307d0cb643cb00568bfb4"
 
 [update]
 [update.modrinth]
 mod-id = "GNAofCJ3"
-version = "XNzQ3Iqo"
+version = "eEnoDoBE"
