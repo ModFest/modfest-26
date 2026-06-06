@@ -65,9 +65,9 @@
 		"files": {
 			"mods/arbitration.pw.toml": {
 				"download": {
-					"hash": "8cee5d1d8cdc358f2164f91b9399183cf4a54bcd880949edc8b569c6336e3fa84d842a9cfe034cb449040bc7b88b340498a1178699cd45e19e69f6f241fb2ea9",
+					"hash": "6315a29854e821ca897e6f7adb315a99de5d6516dc6472d6c34aa4facf807e673f4a95ac128eaf482806fb8ff4031af0d12ff8f552207d680eec96a5a49529e3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xSJDsTRj/versions/6FLOePuY/arbitration-1.3.12%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/xSJDsTRj/versions/CF2GIGeU/arbitration-1.3.12%2Bfabric-26.1.jar"
 				},
 				"filename": "arbitration-1.3.12+fabric-26.1.jar",
 				"name": "Arbitration",
@@ -75,16 +75,16 @@
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
+					"hash": "238c793b720ed21d2d5b564eca88c714cf2188f7b0fb1fd30864660f80901e2b4dad273994b6f77de3c0aa365f930ed8aaccffac49b36c6456b153b52d5d21dc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/E1mjhYMF/fabric-api-0.150.0%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.149.1+26.1.2.jar",
+				"filename": "fabric-api-0.150.0+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "e6fbc04b8c901477b08bdadda760d0871e96ad62e91c890cebf979185a127f25"
+		"key": "222e5d6e3023ec6d9709980be36f209b8ea2f9b6450407b8f8d4265186b35beb"
 	},
 	"archery-gimmicks": {
 		"checks": {
@@ -286,11 +286,11 @@
 		"files": {
 			"mods/booyah.pw.toml": {
 				"download": {
-					"hash": "29792a1fe9134611b2571405165fcc525c16b4b982d1a03d78aacabd470f541d467c1c183f2e1053bf388510991af28b6a292bf5c289250e6ba9b6e4c517f28f",
+					"hash": "ca775bfc243b2ac4d7be4f1ed8d4db137f48f62130b1c52017df92b5d83fc632c39e84176d24415fac7bff03312aedb9baf953ea91a77b1245ce938ac887df25",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/Kl4ogJcx/booyah-1.0.5.jar"
+					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/X0aNoIWH/booyah-1.0.6.jar"
 				},
-				"filename": "booyah-1.0.5.jar",
+				"filename": "booyah-1.0.6.jar",
 				"name": "Booyah!",
 				"side": "both"
 			},
@@ -305,7 +305,7 @@
 				"side": "both"
 			}
 		},
-		"key": "84793b239bd1c77602c5eaef24fa8c956a4fa4f69179938275146b65e5964200"
+		"key": "35f03ec2de633e6d2b541fcbf4f17fed3ccfd614ca61d577153e78ae2d3ae3b9"
 	},
 	"botanicmagic": {
 		"checks": {
@@ -894,16 +894,16 @@
 			},
 			"mods/magical-allayship.pw.toml": {
 				"download": {
-					"hash": "9851fe3eef62fd0a8bb5e952e842fa264222dad0c8962e3b8b7f2bc2258adb7cd745e85184b0a06a6698d75f3d52cf676cca6a35fe3d01c3ab6afce8f7a7f8a1",
+					"hash": "b448532030f1e7b23ae9c5df53f831a37b6324b6d067c55911a8bc69de3f0cee8c92da7c23cd5e57b495d2961769ae19bbd1a6f8af95ff15b31da36ec496db9a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/n49unES0/versions/97SeY2S7/magical-allayship-1.0.3.jar"
+					"url": "https://cdn.modrinth.com/data/n49unES0/versions/XbP1ziXM/magical-allayship-1.1.0.jar"
 				},
-				"filename": "magical-allayship-1.0.3.jar",
+				"filename": "magical-allayship-1.1.0.jar",
 				"name": "Magical Allayship",
 				"side": "both"
 			}
 		},
-		"key": "f22cd99f7575347a6a0ff2c3e56d8de62476d23ab2c54cc74648c8a49b8f3dff"
+		"key": "bd8288a072c32fb155f96c5b042acfc04718220d974d480907f8b4d4f6cdeb13"
 	},
 	"menko": {
 		"checks": {
@@ -932,26 +932,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
+					"hash": "238c793b720ed21d2d5b564eca88c714cf2188f7b0fb1fd30864660f80901e2b4dad273994b6f77de3c0aa365f930ed8aaccffac49b36c6456b153b52d5d21dc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/E1mjhYMF/fabric-api-0.150.0%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.149.1+26.1.2.jar",
+				"filename": "fabric-api-0.150.0+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/meowdemic.pw.toml": {
 				"download": {
-					"hash": "5cc7c64339872f54ccdaf8e02dd39cda950e57e704d803c6464f5d211e69569e2cbbd22acc9e81fdd343b10f86ab73d6c62a5ca01349044c3c6284eaa90f84ce",
+					"hash": "287a7b8309687bc692f768834fbf6b80ce0b44e831a586f194b08a969185f117fd49f2ae191bbdd6556433dbee287e2635bf7c1627ecb6936ce9f4a12cc7838e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/PlTskIb1/meowdemic-1.1.9.jar"
+					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/c1eWxgu5/meowdemic-1.1.10.jar"
 				},
-				"filename": "meowdemic-1.1.9.jar",
+				"filename": "meowdemic-1.1.10.jar",
 				"name": "Meowdemic",
 				"side": "both"
 			}
 		},
-		"key": "ce4df6501b69fc9668dcb4b323743d30eafba0a13dea5278111276366cafef49"
+		"key": "c34866c3b1f81ec63f8761979d04d78bf38259c34b61d81b210abafdc2ce9cfb"
 	},
 	"monday-night-mining": {
 		"checks": {
@@ -980,16 +980,16 @@
 		"files": {
 			"mods/mugann.pw.toml": {
 				"download": {
-					"hash": "874eb681f11435129bcfd6ef82aceeac3b27f76cdf33065f3f51a2e9022277fbf1e9a076f4b9afc64d26ac416dd2d4d213693a287025630ae73e7c6f3df3dcf6",
+					"hash": "e83f4e0a2f92eb77d794a3e5c5ce612b2274bfd69aea5cbcbe4870edebde76722d10dad9851b63c20eb4448c2f23851b2d8739cc67d035ca79c5c740e4b7f281",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/nEKpBjlv/mugann-1.0.15.jar"
+					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/9iWoPEFp/mugann-1.0.18.jar"
 				},
-				"filename": "mugann-1.0.15.jar",
+				"filename": "mugann-1.0.18.jar",
 				"name": "Mugann",
 				"side": "both"
 			}
 		},
-		"key": "c133b9de312a514d238274b1abdd4c8f6aefeccbd169f7b0f086b503b59f8e61"
+		"key": "ff3d2f17ab4be2bad55f7395216465fd736d1cf753ca7f0d933e11896e992f76"
 	},
 	"off-the-shelf": {
 		"checks": {
@@ -1230,16 +1230,16 @@
 		"files": {
 			"mods/renmi.pw.toml": {
 				"download": {
-					"hash": "4cfac7fbffbfdfd64e4275b7893dc2580a6d54e5bc2c02afcf27c4108e5dc3f7d69243c4b42662de65d8815091c2f8f6a19cd829be88bc72842078fc6d1f3509",
+					"hash": "ddb1c28e7fd09c25bb6c229869698caf0bea9311d5fafdc2102fe9fd5c35e22eba063670bcb1ef8e1b60428cada40c52030e82b767bfab6cc69be6aa9372d73b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/j2sOKuB1/renmi-1.0.13-beta%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/y7ccTd8S/renmi-1.0.14-beta%2B26.1.2.jar"
 				},
-				"filename": "renmi-1.0.13-beta+26.1.2.jar",
+				"filename": "renmi-1.0.14-beta+26.1.2.jar",
 				"name": "Ren'mi",
 				"side": "both"
 			}
 		},
-		"key": "c756229ddd423d883d2b63bf94b2d653b5f80bbe9d111c94a80fa869984ef0b9"
+		"key": "d72b9bc51b96cbb4f8630521a5add4b8dbf0cd2ee8b36c42f33aa9ee6a0f8062"
 	},
 	"scriboodle": {
 		"checks": {
@@ -1356,26 +1356,26 @@
 			},
 			"mods/street-art.pw.toml": {
 				"download": {
-					"hash": "97561c0482e7d592beb6f5f7df53a2a6c085c657ab08f308e214dc4eb22982386e2abb8a686821bc2e23cf5f1dc6c810ec3e003ed5c205a19fc39a8839048424",
+					"hash": "199f5cfca197908a6dba66a2b5a7e9498d9bef82d7accfb242e1bd32cc2bab497fb6f295f12143371964159edb51a02458d3b815a07a6a7b408b799b66fb2fe8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/JWGvht1H/street_art-1.0.13.jar"
+					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/LOmLSgfX/street_art-1.0.14.jar"
 				},
-				"filename": "street_art-1.0.13.jar",
+				"filename": "street_art-1.0.14.jar",
 				"name": "Street Art",
 				"side": "both"
 			},
 			"mods/yacl.pw.toml": {
 				"download": {
-					"hash": "c725d81ef2b8f7f4b3c1c127e782572778a765581ce6105e2c4ce77e642b52b2c99b1587f18af192ad649538e4844dda6807e2ecda0a493d09f7f06a346ac377",
+					"hash": "a39de71c189fea4c43e951a4c2d99850ef161280846d817efa4b32761728fda6442d4a714eada0783ca79baa8909935ff7e68dc7a495f104df0fa05515250e52",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/hzww5Tor/yet_another_config_lib_v3-3.9.3%2B26.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/ylPbYWi9/yet_another_config_lib_v3-3.9.4%2B26.1-fabric.jar"
 				},
-				"filename": "yet_another_config_lib_v3-3.9.3+26.1-fabric.jar",
+				"filename": "yet_another_config_lib_v3-3.9.4+26.1-fabric.jar",
 				"name": "YetAnotherConfigLib (YACL)",
 				"side": "both"
 			}
 		},
-		"key": "42114937d96fe88f2a8315ca7c8a20c4af1f989de10350bd91a22f1395c280fe"
+		"key": "0ef70be62e27366107b245e5cb1fd336d27b0362ad6dca3c31f345374ccc2394"
 	},
 	"syncope-synecdoche": {
 		"checks": {
