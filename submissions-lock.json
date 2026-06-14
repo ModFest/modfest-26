@@ -363,16 +363,16 @@
 		"files": {
 			"mods/combat-toggle.pw.toml": {
 				"download": {
-					"hash": "bde09d2784eba23ecbca7fec712646ae7e7ea2393fab51d6ac52776c87a032e79db8ee733112a5ea1d3a9fd2a5af2a5d8bf676437d8417c3d31e0eba278cb393",
+					"hash": "b41a51171b0540f6d8859780e60200a371758b5fee03e21e97dcd51852e258e9fdbbae927b6c12af2facad64f2c540dffa3e92e306a55b62e3c2dbb4dc06c61a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4wdDIoBJ/versions/y21RWHuy/ctoggle-1.2.2.jar"
+					"url": "https://cdn.modrinth.com/data/4wdDIoBJ/versions/z29RGYqR/ctoggle-1.2.3.jar"
 				},
-				"filename": "ctoggle-1.2.2.jar",
+				"filename": "ctoggle-1.2.3.jar",
 				"name": "Combat Toggle",
 				"side": "server"
 			}
 		},
-		"key": "86ad5e162bed9bcc2cc4a4d4e30f98b2ff75e06fd9ca40e9ee99af0ecc44d415"
+		"key": "72c64f52547415d3972c0717a592c6b79b4dc9a5ae443f2daec5d950c686187a"
 	},
 	"creeper-crush": {
 		"checks": {
@@ -1230,16 +1230,16 @@
 		"files": {
 			"mods/renmi.pw.toml": {
 				"download": {
-					"hash": "ddb1c28e7fd09c25bb6c229869698caf0bea9311d5fafdc2102fe9fd5c35e22eba063670bcb1ef8e1b60428cada40c52030e82b767bfab6cc69be6aa9372d73b",
+					"hash": "913cb929e1fb3a19fe9c94719bb0edb60daae08717992a65e29f0d20bbece27445c29ce5f48b2b0a42d50abb4653eb247ad05a1a1744adbe71b8826958d7702e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/y7ccTd8S/renmi-1.0.14-beta%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/hw6J5N1I/renmi-1.0.15-beta%2B26.1.2.jar"
 				},
-				"filename": "renmi-1.0.14-beta+26.1.2.jar",
+				"filename": "renmi-1.0.15-beta+26.1.2.jar",
 				"name": "Ren'mi",
 				"side": "both"
 			}
 		},
-		"key": "d72b9bc51b96cbb4f8630521a5add4b8dbf0cd2ee8b36c42f33aa9ee6a0f8062"
+		"key": "fa5996231eae4917d2299e8cde4fbbdfb4836d89a55c8ba1f344b192cd4ba266"
 	},
 	"scriboodle": {
 		"checks": {
