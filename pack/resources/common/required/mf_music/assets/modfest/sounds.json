@@ -435,6 +435,22 @@
 			}
 		]
 	},
+	"music.assc_midnight": {
+		"sounds": [
+			{
+				"name": "modfest:music/assc_midnight",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.assc_midnight": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/assc_midnight",
+				"stream": true
+			}
+		]
+	},
 	"music.tales_of_yore": {
 		"sounds": [
 			{
