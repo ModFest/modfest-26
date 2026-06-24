@@ -1,2 +1,0 @@
-$tellraw @p[tag=gartic_phone_player,scores={gartic_phone_index=$(index)}] ["Prompt: ",{type:"nbt",source:"entity",nbt:"SelectedItem.components.\"minecraft:writable_book_content\".pages[0].raw",entity:"@p[scores={gartic_phone_index_alt=$(index)}]"}]
-$data modify storage gartic_phone:prompt $(index) set from entity @p[scores={gartic_phone_index_alt=$(index)}] SelectedItem.components."minecraft:writable_book_content".pages[0].raw
